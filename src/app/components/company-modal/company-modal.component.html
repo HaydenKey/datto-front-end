@@ -1,0 +1,23 @@
+<div mat-dialog-content class="dialog-content">
+  <h2>Edit Company Connection</h2>
+
+  <h1>Datto Domain: {{ data.company.dattoDomain }}</h1>
+  <h1>Connectwise Company: </h1>
+
+  <mat-form-field>
+    <mat-label>ConnectWise Company Name</mat-label>
+    <input matInput [formControl]="companyConnectwiseNameControl" [matAutocomplete]="auto" autocomplete="off">
+    <mat-autocomplete #auto="matAutocomplete">
+      <mat-option *ngFor="let option of filteredOptions | async" [value]="option.name">
+        {{ option.name }}
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+</div>
+
+<div mat-dialog-actions>
+  <div style="margin-left: auto">
+    <button mat-button class="cancel" (click)="cancel()">Cancel</button>
+    <button mat-button [disabled]="!formValid()" (click)="save()">Save</button>
+  </div>
+</div>

@@ -1,0 +1,40 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.dialog-content {
+    width: 45em;
+}  
+
+mat-form-field {
+    width: 100%;
+}
+
+mat-form-field + mat-form-field {
+    margin-top: 1em;
+}
+
+mat-form-field input {
+    font-size: 1.2em;
+    padding: 0.5em;
+    width: 95%;
+}
+
+button {
+    height: 3em;
+    width: 8em;
+    font-size: 1.2em;
+    padding-right: .2em;
+}
+
+mat-dialog-actions {
+    display:flex;
+    justify-content: flex-end;
+}
+
+button.cancel {
+    margin-right: .5em;
+}
+  

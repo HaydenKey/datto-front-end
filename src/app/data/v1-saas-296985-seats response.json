@@ -1,0 +1,4914 @@
+[
+    {
+        "mainId": "tlove@aptdynamics.com",
+        "name": "True Love",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "tfletcher@aptdynamics.com",
+        "name": "Tiffany Fletcher",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-05T06:34:35+00:00"
+    },
+    {
+        "mainId": "Windtree1@aptdynamics.com",
+        "name": "Windtree",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-24T02:42:04+00:00"
+    },
+    {
+        "mainId": "JWilliams@aptdynamics.com",
+        "name": "Jamison Williams",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-20T06:34:44+00:00"
+    },
+    {
+        "mainId": "ksolomon@aptdynamics.com",
+        "name": "Karleen Solomon",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-06-03T06:34:39+00:00"
+    },
+    {
+        "mainId": "BLathrop@aptdynamics.com",
+        "name": "Brandon Lathrop",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-28T07:34:50+00:00"
+    },
+    {
+        "mainId": "KGarland@aptdynamics.com",
+        "name": "Kevin Garland",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-16T07:35:03+00:00"
+    },
+    {
+        "mainId": "THill@aptdynamics.com",
+        "name": "Tyra Hill",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "mdelia@aptdynamics.com",
+        "name": "Mona Delia",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "ccheek@aptdynamics.com",
+        "name": "Caleb Cheek",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-05-07T06:35:52+00:00"
+    },
+    {
+        "mainId": "KHayes@aptdynamics.com",
+        "name": "Kathy Hayes",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-10T07:34:21+00:00"
+    },
+    {
+        "mainId": "kharrington@aptdynamics.com",
+        "name": "Krisha Harrington",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-11-20T07:34:30+00:00"
+    },
+    {
+        "mainId": "acoates@aptdynamics.com",
+        "name": "Andrew Coates",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2021-06-22T06:34:21+00:00"
+    },
+    {
+        "mainId": "lhemm@aptdynamics.com",
+        "name": "Lynn G. Hemm (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:51+00:00"
+    },
+    {
+        "mainId": "whitney@aptdynamics.com",
+        "name": "Windtree Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "LShort@aptdynamics.com",
+        "name": "Linda Short",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-12-31T07:34:44+00:00"
+    },
+    {
+        "mainId": "PSantos@aptdynamics.com",
+        "name": "Pedro De Los Santos",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-29T07:34:51+00:00"
+    },
+    {
+        "mainId": "helen@aptdynamics.com",
+        "name": "Heather Ridge Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-05T06:35:34+00:00"
+    },
+    {
+        "mainId": "cmiller@aptdynamics.com",
+        "name": "Connor Miller",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "Max@aptdynamics.com",
+        "name": "Midtown Park Townhomes",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:42+00:00"
+    },
+    {
+        "mainId": "Alice@aptdynamics.com",
+        "name": "Alice Dawson",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "gail@aptdynamics.com",
+        "name": "Glendale Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:47+00:00"
+    },
+    {
+        "mainId": "mthompson@aptdynamics.com",
+        "name": "Myelle Thompson (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-12T06:34:43+00:00"
+    },
+    {
+        "mainId": "jgreene@aptdynamics.com",
+        "name": "Jason Greene",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-16T06:34:30+00:00"
+    },
+    {
+        "mainId": "dedens@aptdynamics.com",
+        "name": "David Edens",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-27T06:34:36+00:00"
+    },
+    {
+        "mainId": "ACManagers@aptdynamics.com",
+        "name": "AC Managers",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:36+00:00"
+    },
+    {
+        "mainId": "AKeyes@aptdynamics.com",
+        "name": "Ambria Keyes",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:57+00:00"
+    },
+    {
+        "mainId": "agrantham@aptdynamics.com",
+        "name": "Anthony Grantham",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-12T06:34:42+00:00"
+    },
+    {
+        "mainId": "SFerguson@aptdynamics.com",
+        "name": "Shonee Ferguson",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2023-01-25T07:34:53+00:00"
+    },
+    {
+        "mainId": "JWashington@aptdynamics.com",
+        "name": "Jamil Washington",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "gavin@aptdynamics.com",
+        "name": "Greenview Meadows",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-01T06:35:41+00:00"
+    },
+    {
+        "mainId": "JMcDonald@aptdynamics.com",
+        "name": "Jermaine McDonald",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "LetsPlanaPicnic@aptdynamics.com",
+        "name": "Let\u0027s Plan a Picnic",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-29T06:35:26+00:00"
+    },
+    {
+        "mainId": "iris@aptdynamics.com",
+        "name": "Ivey Ridge Apartments Marketing",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-11T07:35:21+00:00"
+    },
+    {
+        "mainId": "TWesley@aptdynamics.com",
+        "name": "Tracy Wesley",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:55+00:00"
+    },
+    {
+        "mainId": "AWashington@aptdynamics.com",
+        "name": "Arlene Washington",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-22T07:34:52+00:00"
+    },
+    {
+        "mainId": "lmarshall@aptdynamics.com",
+        "name": "Larry Marshall",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-17T07:34:32+00:00"
+    },
+    {
+        "mainId": "MMunoz@aptdynamics.com",
+        "name": "Melissa Munoz",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:46+00:00"
+    },
+    {
+        "mainId": "ecollins@aptdynamics.com",
+        "name": "Eli Collins",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-05-26T06:37:40+00:00"
+    },
+    {
+        "mainId": "JHarrell@aptdynamics.com",
+        "name": "Jamie Harrell",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "tnail@aptdynamics.com",
+        "name": "Terri Nail",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "cameron@aptdynamics.com",
+        "name": "Chelsea Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-06T07:35:49+00:00"
+    },
+    {
+        "mainId": "sorellana@aptdynamics.com",
+        "name": "Serjhey Orellana",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "RaleighProperties@aptdynamics.com",
+        "name": "Raleigh Properties",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:36+00:00"
+    },
+    {
+        "mainId": "AGaster@aptdynamics.com",
+        "name": "Amanda Gaster",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-15T07:35:01+00:00"
+    },
+    {
+        "mainId": "TBeck@aptdynamics.com",
+        "name": "Tracey Beck",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:46+00:00"
+    },
+    {
+        "mainId": "Nina@aptdynamics.com",
+        "name": "Nevin Place Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "emily@aptdynamics.com",
+        "name": "Eastbrooke Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "fthompson@aptdynamics.com",
+        "name": "Fredericka Thompson",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-02-05T07:34:33+00:00"
+    },
+    {
+        "mainId": "CommunityManagerGroup@aptdynamics.com",
+        "name": "Community Manager Group",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-26T07:36:15+00:00"
+    },
+    {
+        "mainId": "WTOffice@aptdynamics.com",
+        "name": "WT Office",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:36+00:00"
+    },
+    {
+        "mainId": "agupton@aptdynamics.com",
+        "name": "Aiyana Gupton (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-17T07:34:32+00:00"
+    },
+    {
+        "mainId": "bhofmeister@aptdynamics.com",
+        "name": "Brittlyn Hofmeister (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-01T07:34:34+00:00"
+    },
+    {
+        "mainId": "rlocklear@aptdynamics.com",
+        "name": "Russell Locklear",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "tsmith@aptdynamics.com",
+        "name": "Tracy Smith",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-24T06:34:41+00:00"
+    },
+    {
+        "mainId": "MSnead@aptdynamics.com",
+        "name": "Michael Sneed",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-09-17T06:34:36+00:00"
+    },
+    {
+        "mainId": "rkenner@aptdynamics.com",
+        "name": "Robert Kenner",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-18T06:34:51+00:00"
+    },
+    {
+        "mainId": "BMonroe@aptdynamics.com",
+        "name": "Brandon Monroe",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-22T07:34:52+00:00"
+    },
+    {
+        "mainId": "angelaraupparchive@aptdynamics.com",
+        "name": "Angela Raupp Archive",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-05T06:35:32+00:00"
+    },
+    {
+        "mainId": "JEbron@aptdynamics.com",
+        "name": "Jeremy Ebron",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-05T06:34:40+00:00"
+    },
+    {
+        "mainId": "wbuchanan@aptdynamics.com",
+        "name": "William Buchanan",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:35+00:00"
+    },
+    {
+        "mainId": "cliftonplaceapartments@aptdynamics.com",
+        "name": "Clifton Place Apartments",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-24T07:35:42+00:00"
+    },
+    {
+        "mainId": "rgeeter@aptdynamics.com",
+        "name": "Rickala Geeter (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-25T18:27:22+00:00"
+    },
+    {
+        "mainId": "spark@aptdynamics.com",
+        "name": "Spark",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "dbrown@aptdynamics.com",
+        "name": "Darren Brown",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-21T06:34:33+00:00"
+    },
+    {
+        "mainId": "EHicks@aptdynamics.com",
+        "name": "Eboni Hicks",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-10-25T06:34:52+00:00"
+    },
+    {
+        "mainId": "BTerry@aptdynamics.com",
+        "name": "Brenda Terry",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:51+00:00"
+    },
+    {
+        "mainId": "gjohnson@aptdynamics.com",
+        "name": "Gary  Johnson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-12-23T07:34:23+00:00"
+    },
+    {
+        "mainId": "mcivitello@aptdynamics.com",
+        "name": "Michael Civitello (Shared Mailbox Anchor",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:38+00:00"
+    },
+    {
+        "mainId": "adavis@aptdynamics.com",
+        "name": "Asja Davis (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:39+00:00"
+    },
+    {
+        "mainId": "mbryant@aptdynamics.com",
+        "name": "Michael Bryant",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-24T07:34:52+00:00"
+    },
+    {
+        "mainId": "rward@aptdynamics.com",
+        "name": "Robyn Ward",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-15T06:34:33+00:00"
+    },
+    {
+        "mainId": "MWard@aptdynamics.com",
+        "name": "Michael Ward (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "JWelch@aptdynamics.com",
+        "name": "Jerry Welch",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:42+00:00"
+    },
+    {
+        "mainId": "utemple@aptdynamics.com",
+        "name": "Uranus Temple",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-14T06:34:32+00:00"
+    },
+    {
+        "mainId": "jharris@aptdynamics.com",
+        "name": "Justin Harris",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-27T06:34:36+00:00"
+    },
+    {
+        "mainId": "JBonds@aptdynamics.com",
+        "name": "Jania Bonds (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:47+00:00"
+    },
+    {
+        "mainId": "vgarcia@aptdynamics.com",
+        "name": "Victor Garcia",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-07-20T06:34:39+00:00"
+    },
+    {
+        "mainId": "MShepherd@aptdynamics.com",
+        "name": "Mitch Shepherd",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-09-02T06:34:53+00:00"
+    },
+    {
+        "mainId": "jcushman@aptdynamics.com",
+        "name": "Jessica Cushman",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-15T06:34:33+00:00"
+    },
+    {
+        "mainId": "rjarvis@aptdynamics.com",
+        "name": "Rebecca Jarvis",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-06-29T06:34:38+00:00"
+    },
+    {
+        "mainId": "riley@aptdynamics.com",
+        "name": "Taproot Rentals",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-04T07:35:49+00:00"
+    },
+    {
+        "mainId": "DGonzalez@aptdynamics.com",
+        "name": "Danny Gonzalez",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "mormond@aptdynamics.com",
+        "name": "Maurisha Ormond",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-07-28T06:40:46+00:00"
+    },
+    {
+        "mainId": "hcook@aptdynamics.com",
+        "name": "Heather Cook",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-06-18T06:34:51+00:00"
+    },
+    {
+        "mainId": "LDaniel@aptdynamics.com",
+        "name": "Logan Daniel",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:38+00:00"
+    },
+    {
+        "mainId": "AMcDonald@aptdynamics.com",
+        "name": "Ally McDonald",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-05T07:34:54+00:00"
+    },
+    {
+        "mainId": "hrlmtemp@aptdynamics.com",
+        "name": "HRLM Temp",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-11-17T07:35:07+00:00"
+    },
+    {
+        "mainId": "2023PicnicCommittee@aptdynamics.com",
+        "name": "2023 Picnic Committee",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-03-03T07:36:35+00:00"
+    },
+    {
+        "mainId": "cjames@aptdynamics.com",
+        "name": "Candace James",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-11T06:34:32+00:00"
+    },
+    {
+        "mainId": "MAGMA@aptdynamics.com",
+        "name": "MAGMA",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-02-03T02:36:52+00:00"
+    },
+    {
+        "mainId": "dhuynh@aptdynamics.com",
+        "name": "Donnell Huynh",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-17T02:34:20+00:00"
+    },
+    {
+        "mainId": "AZayas@aptdynamics.com",
+        "name": "Arnaldo Zayas",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-06T07:34:45+00:00"
+    },
+    {
+        "mainId": "william@aptdynamics.com",
+        "name": "Wilson Woods",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-04T06:35:38+00:00"
+    },
+    {
+        "mainId": "pmarkar@aptdynamics.com",
+        "name": "Peter Markar",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-03-31T06:34:31+00:00"
+    },
+    {
+        "mainId": "kimberly@aptdynamics.com",
+        "name": "Keystone Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-05T06:35:34+00:00"
+    },
+    {
+        "mainId": "ben@aptdynamics.com",
+        "name": "Bradford Park",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-04T06:35:38+00:00"
+    },
+    {
+        "mainId": "mwendt@aptdynamics.com",
+        "name": "Melinda Wendt",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-12-23T07:34:23+00:00"
+    },
+    {
+        "mainId": "anthony@aptdynamics.com",
+        "name": "Arbors at North Hills",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-04T06:35:38+00:00"
+    },
+    {
+        "mainId": "HAllen@aptdynamics.com",
+        "name": "Hannah Allen",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "connor@aptdynamics.com",
+        "name": "Cardinal Townhomes",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-20T06:38:43+00:00"
+    },
+    {
+        "mainId": "TStephenson@aptdynamics.com",
+        "name": "Topaz Stephenson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-02T06:34:53+00:00"
+    },
+    {
+        "mainId": "vendorsetup@aptdynamics.com",
+        "name": "Vendor Setup",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-13T07:35:40+00:00"
+    },
+    {
+        "mainId": "orodgers@aptdynamics.com",
+        "name": "Octavia Rodgers",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-07-19T06:34:38+00:00"
+    },
+    {
+        "mainId": "JJacobs@aptdynamics.com",
+        "name": "Jay Jacobs",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "TPAtemp@aptdynamics.com",
+        "name": "TPA Temp",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-04T06:34:37+00:00"
+    },
+    {
+        "mainId": "KMcAdam@aptdynamics.com",
+        "name": "Kiel McAdam",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-11-05T06:34:40+00:00"
+    },
+    {
+        "mainId": "AHairr@aptdynamics.com",
+        "name": "Ashley Hairr",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-14T06:34:37+00:00"
+    },
+    {
+        "mainId": "claire@aptdynamics.com",
+        "name": "Cypress Grove Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-29T06:35:20+00:00"
+    },
+    {
+        "mainId": "TOdegaard@aptdynamics.com",
+        "name": "Teresa Odegaard",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "YJones@aptdynamics.com",
+        "name": "Yank Jones",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-11-17T07:35:08+00:00"
+    },
+    {
+        "mainId": "KCollins@aptdynamics.com",
+        "name": "Karen Collins",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-09-09T06:34:37+00:00"
+    },
+    {
+        "mainId": "rachel@aptdynamics.com",
+        "name": "Regency Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:59+00:00"
+    },
+    {
+        "mainId": "jamie@aptdynamics.com",
+        "name": "JMA Marketing",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-09T07:35:20+00:00"
+    },
+    {
+        "mainId": "acrouse@aptdynamics.com",
+        "name": "Autumn Crouse",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-10-27T06:34:41+00:00"
+    },
+    {
+        "mainId": "landon@aptdynamics.com",
+        "name": "Jamestown Landing",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-06T07:35:35+00:00"
+    },
+    {
+        "mainId": "TKeniston@aptdynamics.onmicrosoft.com",
+        "name": "Tabitha Keniston",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "dsmith@aptdynamics.com",
+        "name": "Denise Smith",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "ghayworth@aptdynamics.com",
+        "name": "Gail Hayworth",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-08-19T06:36:19+00:00"
+    },
+    {
+        "mainId": "BSantiago@aptdynamics.com",
+        "name": "Bryan Santiago",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:35+00:00"
+    },
+    {
+        "mainId": "dhighsmith@aptdynamics.com",
+        "name": "Darreane Highsmith",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-04-26T06:34:34+00:00"
+    },
+    {
+        "mainId": "RWarren@aptdynamics.com",
+        "name": "Rex Warren",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-18T06:34:45+00:00"
+    },
+    {
+        "mainId": "ARingling@aptdynamics.com",
+        "name": "Abby Ringling",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-13T06:34:36+00:00"
+    },
+    {
+        "mainId": "jvorner-harrison@aptdynamics.com",
+        "name": "Ja\u0027marki Vorner-Harrison (Shared Mailbox Anchor)",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-30T06:34:33+00:00"
+    },
+    {
+        "mainId": "blake@aptdynamics.com",
+        "name": "Briarwood Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-02T06:35:32+00:00"
+    },
+    {
+        "mainId": "lkiehl@aptdynamics.com",
+        "name": "Lana Kiehl",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "AccountingTeam@aptdynamics.com",
+        "name": "Accounting Team",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:37+00:00"
+    },
+    {
+        "mainId": "AngelaRaupp-TrainingItems@aptdynamics.com",
+        "name": "Angela Raupp - Training Items",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-09T07:35:36+00:00"
+    },
+    {
+        "mainId": "AXPMGMT@aptdynamics.com",
+        "name": "AXP MGMT",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:37+00:00"
+    },
+    {
+        "mainId": "jpittman@aptdynamics.com",
+        "name": "Jennifer  Pittman",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "jrodriguez@aptdynamics.com",
+        "name": "Joshua Rodriguez",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-02T06:34:40+00:00"
+    },
+    {
+        "mainId": "sdee@aptdynamics.com",
+        "name": "Suzanne Dee",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "jbrown@aptdynamics.com",
+        "name": "Justin Brown",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-11T06:34:32+00:00"
+    },
+    {
+        "mainId": "sjohnson@aptdynamics.com",
+        "name": "Shondell Johnson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-06-29T06:34:38+00:00"
+    },
+    {
+        "mainId": "WW-Agent-1@aptdynamics.com",
+        "name": "Joy Hudson",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "sfoster@aptdynamics.com",
+        "name": "Stephanie Foster (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "eterry@aptdynamics.com",
+        "name": "Eulas Terry",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "lstewart@aptdynamics.com",
+        "name": "Lynda Stewart (Shared Mailbox)",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2021-06-11T06:36:20+00:00"
+    },
+    {
+        "mainId": "carl@aptdynamics.com",
+        "name": "Colony Square Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-02T06:35:22+00:00"
+    },
+    {
+        "mainId": "Administrator@aptdynamics.com",
+        "name": "Administrator ()",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "ACresimore@aptdynamics.com",
+        "name": "Andrew Cresimore",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "SCline@aptdynamics.com",
+        "name": "Sonni Cline",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-10-18T06:34:39+00:00"
+    },
+    {
+        "mainId": "JThomas@aptdynamics.com",
+        "name": "Joey Thomas",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "neotechnotifications@aptdynamics.com",
+        "name": "NeoTech",
+        "seatType": "SharedMailbox",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "TEAOPA@aptdynamics.com",
+        "name": "TEA \u0026 OPA",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-01T07:36:18+00:00"
+    },
+    {
+        "mainId": "KClark@aptdynamics.com",
+        "name": "Karri Clark (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:53+00:00"
+    },
+    {
+        "mainId": "rcoates@aptdynamics.com",
+        "name": "Rose Coates",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-29T06:34:35+00:00"
+    },
+    {
+        "mainId": "fas@aptdynamics.com",
+        "name": "FAS",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-26T06:35:27+00:00"
+    },
+    {
+        "mainId": "SMO-Seema@aptdynamics.com",
+        "name": "Seema",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:58+00:00"
+    },
+    {
+        "mainId": "BWray@aptdynamics.com",
+        "name": "Blair Wray",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:59+00:00"
+    },
+    {
+        "mainId": "Mindy@aptdynamics.com",
+        "name": "Meadow Creek Townhomes",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "george@aptdynamics.com",
+        "name": "Grand Oaks Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-06-10T06:34:48+00:00"
+    },
+    {
+        "mainId": "ASanderson@aptdynamics.com",
+        "name": "Allen Sanderson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-28T07:35:16+00:00"
+    },
+    {
+        "mainId": "lindsey@aptdynamics.com",
+        "name": "Lindsey Manor Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:42+00:00"
+    },
+    {
+        "mainId": "jboseman@aptdynamics.com",
+        "name": "Joshua Boseman",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-02T06:34:19+00:00"
+    },
+    {
+        "mainId": "sjames@aptdynamics.com",
+        "name": "Sarray James",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-04-27T06:34:11+00:00"
+    },
+    {
+        "mainId": "MMittelbuscher@aptdynamics.com",
+        "name": "Michele Mittelbuscher",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-09-16T06:34:39+00:00"
+    },
+    {
+        "mainId": "brimmer@aptdynamics.com",
+        "name": "Brantley Rimmer",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-10T07:35:03+00:00"
+    },
+    {
+        "mainId": "mlucas@aptdynamics.com",
+        "name": "Mike Lucas",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-01-13T07:34:31+00:00"
+    },
+    {
+        "mainId": "smiller@aptdynamics.com",
+        "name": "Sam Miller",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "HSikes@aptdynamics.com",
+        "name": "Hailey Sikes",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-07T07:34:56+00:00"
+    },
+    {
+        "mainId": "KJenkins@aptdynamics.com",
+        "name": "Kandice Jenkins",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:41+00:00"
+    },
+    {
+        "mainId": "oliver@aptdynamics.com",
+        "name": "Oak Pointe Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-06T07:35:35+00:00"
+    },
+    {
+        "mainId": "CHall@aptdynamics.com",
+        "name": "Caleb Hall (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "RBolt@aptdynamics.com",
+        "name": "Reginald Bolt",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-09T07:34:48+00:00"
+    },
+    {
+        "mainId": "CedarRidgeApts196@aptdynamics.com",
+        "name": "Cedar Ridge Apts",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-14T06:35:17+00:00"
+    },
+    {
+        "mainId": "evazquez@aptdynamics.com",
+        "name": "Edna  Vazquez",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-12T06:34:42+00:00"
+    },
+    {
+        "mainId": "jscruggs@aptdynamics.com",
+        "name": "Jeffrey Scruggs",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-07-08T06:34:39+00:00"
+    },
+    {
+        "mainId": "Marketing@aptdynamics.com",
+        "name": "Jennifer\u0027s Marketing To Do List",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-04-07T06:36:15+00:00"
+    },
+    {
+        "mainId": "n@aptdynamics.com",
+        "name": "n",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-13T07:36:14+00:00"
+    },
+    {
+        "mainId": "cgoins@aptdynamics.com",
+        "name": "Clarence Goins (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-10-16T06:35:26+00:00"
+    },
+    {
+        "mainId": "ISigmon@aptdynamics.com",
+        "name": "Ivey Sigmon",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-29T07:34:51+00:00"
+    },
+    {
+        "mainId": "LNettles@aptdyn.com",
+        "name": "Layonna Nettles",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:39+00:00"
+    },
+    {
+        "mainId": "TEOPtemp@aptdynamics.com",
+        "name": "Trails End and Oak Pointe Temp",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-11-01T06:34:42+00:00"
+    },
+    {
+        "mainId": "klewis@aptdynamics.com",
+        "name": "Katina Lewis",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-03-31T06:34:31+00:00"
+    },
+    {
+        "mainId": "jacevedo@aptdynamics.com",
+        "name": "Jaime Acevedo",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "jkelley@aptdynamics.com",
+        "name": "Julius Kelley",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-28T07:35:16+00:00"
+    },
+    {
+        "mainId": "kclarida@aptdynamics.com",
+        "name": "Kevin Clarida",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "Blah@aptdynamics.com",
+        "name": "Blah",
+        "seatType": "Team",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:37+00:00"
+    },
+    {
+        "mainId": "aramseur@aptdynamics.com",
+        "name": "Angelica Ramseur (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "DLamb@aptdynamics.com",
+        "name": "Dennies Lamb",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:38+00:00"
+    },
+    {
+        "mainId": "2021ApartmentalizePeeps@aptdynamics.com",
+        "name": "2021 Apartmentalize Peeps",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-05-29T06:59:19+00:00"
+    },
+    {
+        "mainId": "lee@aptdynamics.com",
+        "name": "Landmark Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "parrowsmith@aptdynamics.com",
+        "name": "Phillip Arrowsmith",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-06-18T06:34:51+00:00"
+    },
+    {
+        "mainId": "ishoffner@aptdynamics.com",
+        "name": "Isaiah Shoffner",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-12T06:34:36+00:00"
+    },
+    {
+        "mainId": "jmartin@aptdynamics.com",
+        "name": "Jessica Martin (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-30T07:34:27+00:00"
+    },
+    {
+        "mainId": "Carter@aptdynamics.com",
+        "name": "Clifton Place",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-29T07:35:15+00:00"
+    },
+    {
+        "mainId": "cbaldwin@aptdynamics.com",
+        "name": "Chris Baldwin",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "ARaupp@aptdynamics.com",
+        "name": "Angela Raupp",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:55+00:00"
+    },
+    {
+        "mainId": "mcarroll@aptdynamics.com",
+        "name": "Morgan Carroll",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-05T06:34:35+00:00"
+    },
+    {
+        "mainId": "lmayhew@aptdynamics.com",
+        "name": "LaDonna Mayhew",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-07-24T06:34:39+00:00"
+    },
+    {
+        "mainId": "PLee@aptdynamics.com",
+        "name": "Parthena Lee (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "paul@aptdynamics.com",
+        "name": "The Park",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-03T06:35:26+00:00"
+    },
+    {
+        "mainId": "grucker@aptdynamics.com",
+        "name": "George Rucker",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-10-26T19:10:52+00:00"
+    },
+    {
+        "mainId": "Gde8f9bda7df0488cac543268e4bc15b3@aptdynamics.com",
+        "name": "TraceyB\u0027s Archived Email",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "lbisher@aptdynamics.com",
+        "name": "Lisa Bisher",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:39+00:00"
+    },
+    {
+        "mainId": "BradfordParkTeam@aptdynamics.com",
+        "name": "Bradford Park Team",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-12T07:36:33+00:00"
+    },
+    {
+        "mainId": "carly@aptdynamics.com",
+        "name": "Cedar Ridge",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-03T06:35:26+00:00"
+    },
+    {
+        "mainId": "Bkarim@aptdynamics.com",
+        "name": "Bibi Karim (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-09-08T13:00:51+00:00"
+    },
+    {
+        "mainId": "john@aptdynamics.com",
+        "name": "Jeffries Cove Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-25T06:36:10+00:00"
+    },
+    {
+        "mainId": "rvalentine@aptdynamics.com",
+        "name": "Russell Valentine",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-08-20T06:34:39+00:00"
+    },
+    {
+        "mainId": "GMATemp@aptdynamics.com",
+        "name": "GMA Temp",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-01T06:34:37+00:00"
+    },
+    {
+        "mainId": "GetAnswers@aptdynamics.com",
+        "name": "GetAnswers",
+        "seatType": "Team",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2022-02-28T07:35:56+00:00"
+    },
+    {
+        "mainId": "zarchive-lisabisher@aptdynamics.com",
+        "name": "zArchive - Lisa Bisher",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "mgwyn@aptdynamics.com",
+        "name": "Mary Gwyn",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:50+00:00"
+    },
+    {
+        "mainId": "lbeshore@aptdynamics.com",
+        "name": "Linwood Beshore",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-09-24T06:35:24+00:00"
+    },
+    {
+        "mainId": "ifoust@aptdynamics.com",
+        "name": "Ivey Foust (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-25T18:27:22+00:00"
+    },
+    {
+        "mainId": "TrailsEndOakPointeTeam@aptdynamics.com",
+        "name": "Trails End\/ Oak Pointe Team",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-11T06:36:27+00:00"
+    },
+    {
+        "mainId": "GKJohnson@aptdynamics.com",
+        "name": "Gordon Johnson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-04T07:34:56+00:00"
+    },
+    {
+        "mainId": "mmccoy@aptdynamics.com",
+        "name": "Maynard McCoy",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-07-01T06:34:16+00:00"
+    },
+    {
+        "mainId": "SMO-Sedgefield@aptdynamics.com",
+        "name": "Sedgefield",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "slaney@aptdynamics.com",
+        "name": "Shaun Laney",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:41:14+00:00"
+    },
+    {
+        "mainId": "SBrewer@aptdynamics.com",
+        "name": "Shane Brewer",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:53+00:00"
+    },
+    {
+        "mainId": "kfredericksen@aptdynamics.com",
+        "name": "Kent Fredericksen",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-07-29T06:34:39+00:00"
+    },
+    {
+        "mainId": "August@aptdynamics.com",
+        "name": "August",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-08-18T07:01:15+00:00"
+    },
+    {
+        "mainId": "YDorsey@aptdynamics.com",
+        "name": "Yolonda Dorsey",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-20T07:34:49+00:00"
+    },
+    {
+        "mainId": "BestPlaceToWork@aptdynamics.com",
+        "name": "Best Place To Work Survey",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:51+00:00"
+    },
+    {
+        "mainId": "ACarr@aptdynamics.com",
+        "name": "Andrew Carr",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-22T07:34:52+00:00"
+    },
+    {
+        "mainId": "JJones@aptdynamics.com",
+        "name": "Jennifer Jones",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-11-15T07:35:01+00:00"
+    },
+    {
+        "mainId": "LHovasapian@aptdynamics.com",
+        "name": "Lynn Hovasapian",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-24T06:34:37+00:00"
+    },
+    {
+        "mainId": "rvazquez@aptdynamics.com",
+        "name": "Ricardo Vazquez",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-12T06:34:43+00:00"
+    },
+    {
+        "mainId": "owhittington@aptdynamics.com",
+        "name": "Olivia Whittington",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-24T06:34:41+00:00"
+    },
+    {
+        "mainId": "kcox@aptdynamics.com",
+        "name": "Kelly Cox",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:41+00:00"
+    },
+    {
+        "mainId": "marysarchive@aptdynamics.com",
+        "name": "MarysArchive",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "JDinwiddie@aptdynamics.com",
+        "name": "Jonathan Dinwiddie",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-26T07:34:44+00:00"
+    },
+    {
+        "mainId": "srodgers@aptdynamics.com",
+        "name": "Shannon Rodgers",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-12T06:35:04+00:00"
+    },
+    {
+        "mainId": "eSakellariou@aptdynamics.com",
+        "name": "Erin Sakellariou",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "tara@aptdynamics.com",
+        "name": "Trails End Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-24T07:35:19+00:00"
+    },
+    {
+        "mainId": "Grace@aptdynamics.com",
+        "name": "Grentton Place Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:59+00:00"
+    },
+    {
+        "mainId": "acarpenter@aptdynamics.com",
+        "name": "Andrea Carpenter",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-16T06:34:39+00:00"
+    },
+    {
+        "mainId": "KGarland@aptdynamics.com",
+        "name": "Kevin Garland",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "GCampbell@aptdynamics.com",
+        "name": "Gail Campbell",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:57+00:00"
+    },
+    {
+        "mainId": "dstewart@aptdynamics.com",
+        "name": "Derrick Stewart (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-03-31T06:34:31+00:00"
+    },
+    {
+        "mainId": "IDaymon@aptdynamics.com",
+        "name": "India Daymon",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "JLuna@aptdynamics.com",
+        "name": "Juana Luna",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2023-03-01T07:34:57+00:00"
+    },
+    {
+        "mainId": "AshburyPoolReservations@aptdynamics.com",
+        "name": "Ashbury Pool Reservations",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-23T07:35:55+00:00"
+    },
+    {
+        "mainId": "CYepes@aptdynamics.com",
+        "name": "Christina Yepes",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "ACruz@aptdynamics.com",
+        "name": "Abigail Cruz",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2023-01-28T07:34:50+00:00"
+    },
+    {
+        "mainId": "SGreene@aptdynamics.com",
+        "name": "Steven Greene",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2023-01-13T07:34:50+00:00"
+    },
+    {
+        "mainId": "ZAlexander@aptdynamics.com",
+        "name": "Zandra Alexander",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:39+00:00"
+    },
+    {
+        "mainId": "JDorsey@aptdynamics.com",
+        "name": "Jenice Dorsey",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-10-27T06:34:48+00:00"
+    },
+    {
+        "mainId": "anebling@aptdynamics.com",
+        "name": "Allison Nebling",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:41+00:00"
+    },
+    {
+        "mainId": "nplowden@aptdynamics.com",
+        "name": "Nancy Plowden (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-13T07:34:27+00:00"
+    },
+    {
+        "mainId": "dbryant@aptdynamics.com",
+        "name": "Dayton Bryant",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "tiffany@aptdynamics.com",
+        "name": "Tree Top Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "jedwards@aptdynamics.com",
+        "name": "Justin Edwards",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-07-14T06:34:39+00:00"
+    },
+    {
+        "mainId": "ZGuichardo@aptdynamics.com",
+        "name": "Zarina Guichardo",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-06T07:34:55+00:00"
+    },
+    {
+        "mainId": "KWebb@aptdynamics.com",
+        "name": "Kevin Webb",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-15T07:35:02+00:00"
+    },
+    {
+        "mainId": "AParker@aptdynamics.com",
+        "name": "Abby Parker",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:47+00:00"
+    },
+    {
+        "mainId": "rthomas@aptdynamics.com",
+        "name": "Robyn Thomas",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-08T07:34:53+00:00"
+    },
+    {
+        "mainId": "mshipman@aptdynamics.com",
+        "name": "Mary Shipman-Bailey",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-05-26T06:37:40+00:00"
+    },
+    {
+        "mainId": "rhankins@aptdynamics.com",
+        "name": "Ricky Hankins",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "rjohnson@aptdynamics.com",
+        "name": "Roosevelt Johnson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-28T07:35:16+00:00"
+    },
+    {
+        "mainId": "MMitchell@aptdynamics.com",
+        "name": "Michael Mitchell",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-10-15T06:34:37+00:00"
+    },
+    {
+        "mainId": "MAmero@aptdynamics.com",
+        "name": "Michelle Amero",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-22T07:34:55+00:00"
+    },
+    {
+        "mainId": "CNavy@aptdynamics.com",
+        "name": "Chris Navy",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-08-25T06:34:46+00:00"
+    },
+    {
+        "mainId": "acomer@aptdynamics.com",
+        "name": "Andrea Comer",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-08-11T06:34:27+00:00"
+    },
+    {
+        "mainId": "MGrel@aptdynamics.com",
+        "name": "Maggie Grel",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:58+00:00"
+    },
+    {
+        "mainId": "CedarRidgeApts734@aptdynamics.com",
+        "name": "Cedar Ridge Apts",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-14T06:35:17+00:00"
+    },
+    {
+        "mainId": "drichardson@aptdynamics.com",
+        "name": "Darbin Richardson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "nevinplaceoldemails@aptdynamics.com",
+        "name": "Nevin Place old emails",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "canthony@aptdynamics.com",
+        "name": "Cecil Anthony (Shared Mailbox)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-03T06:34:39+00:00"
+    },
+    {
+        "mainId": "taprootmaintenance@aptdynamics.com",
+        "name": "Tighe Campbell",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-03-01T07:34:57+00:00"
+    },
+    {
+        "mainId": "sneighbors@aptdynamics.com",
+        "name": "Sammy Neighbors",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-05-18T06:45:16+00:00"
+    },
+    {
+        "mainId": "tmclean@aptdynamics.com",
+        "name": "Thomasina Mclean",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-29T06:34:38+00:00"
+    },
+    {
+        "mainId": "KWilson@aptdynamics.com",
+        "name": "Kendell Wilson",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-11-05T06:34:40+00:00"
+    },
+    {
+        "mainId": "owen@aptdynamics.com",
+        "name": "The Oaks Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-18T06:35:35+00:00"
+    },
+    {
+        "mainId": "rsparks@aptdynamics.com",
+        "name": "Rickasia Sparks",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-12-04T07:34:27+00:00"
+    },
+    {
+        "mainId": "jkane@aptdynamics.com",
+        "name": "Julia Kane",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-24T06:34:37+00:00"
+    },
+    {
+        "mainId": "LCaesar@aptdynamics.com",
+        "name": "Lorielle Caesar",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:55+00:00"
+    },
+    {
+        "mainId": "GAlmengor@aptdynamics.com",
+        "name": "Gaby Almengor",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-07T07:34:56+00:00"
+    },
+    {
+        "mainId": "charlie@aptdynamics.com",
+        "name": "Chateau Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-27T06:34:44+00:00"
+    },
+    {
+        "mainId": "mabbott@aptdynamics.com",
+        "name": "Melvin Abbott",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "SBarnett@aptdynamics.com",
+        "name": "Samantha Barnett",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "KBryant@aptdynamics.com",
+        "name": "Kenneth Bryant",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "AP@aptdynamics.com",
+        "name": "AP",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-06-08T06:40:54+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HeatherRidge",
+        "name": "Heather Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-02T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/LKV",
+        "name": "LKV",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-03-17T06:36:00+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ChelseaStaff",
+        "name": "Chelsea Apartments Staff",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-06T07:35:54+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ACManagers",
+        "name": "AC Managers",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/AptDyn Marketing",
+        "name": "AptDyn Marketing",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:18+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Staffing\/West2",
+        "name": "West Region - Staffing",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:31+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Benefits",
+        "name": "Benefits",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:31+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Seven Oaks",
+        "name": "Seven Oaks",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:25+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/NAA Convention 2015",
+        "name": "NAA Convention 2015",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/MultiFamily Exchange",
+        "name": "MultiFamily Exchange",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting",
+        "name": "Reporting",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:23+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End Accounting Close Out",
+        "name": "Year End Accounting Close Out",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:27+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Hanover Court - Listing",
+        "name": "Hanover Court - Listing",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End 2014",
+        "name": "Year End 2014",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:27+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HQ",
+        "name": "HQ",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:38+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/payroll",
+        "name": "Payroll",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Ashley Wedding",
+        "name": "Ashley Wedding",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:18+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/manuals_handbooks",
+        "name": "Employee Manuals and Handbooks",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:32+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End Accounting Close Out\/East2",
+        "name": "Year End - East",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:34+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HO - CRA",
+        "name": "HO - CRA",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End 2014\/West",
+        "name": "Year End 2014 - West",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:34+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Rolling Hills Townhomes",
+        "name": "Rolling Hills Townhomes",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Hartley",
+        "name": "Hartley",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Online_Train",
+        "name": "Online Training - External",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:32+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Chambers Ridge Refi",
+        "name": "Chambers Ridge Refi",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Sedgefield",
+        "name": "Sedgefield",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development",
+        "name": "Team Resources",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:25+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting\/East",
+        "name": "ME Reports - East",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Staffing\/West",
+        "name": "Staffing - West",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/",
+        "name": "Apartment Dynamics, LLC",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:35+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Meadow Creek",
+        "name": "Meadow Creek",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Multi Family Alliance",
+        "name": "Multi Family Alliance",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HR\/Benefits",
+        "name": "Benefits",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Site Development",
+        "name": "Site Development",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:25+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Operations",
+        "name": "Operations Manual",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Home Office - Web - Photos",
+        "name": "Home Office - Web - Photos",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:21+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Development Activity",
+        "name": "Development Activity",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Acquisitions\/Ridges",
+        "name": "The Ridges",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Property Files",
+        "name": "Property Files",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:23+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Acquisitions\/HollyLeaf",
+        "name": "Holly Leaf",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Management Agreements",
+        "name": "Management Agreements",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:21+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Emerald Forest",
+        "name": "Emerald Forest",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Meadow Creek - Site Files",
+        "name": "Meadow Creek - Site Files",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:21+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Acquisitions\/Augusta",
+        "name": "Augusta Road",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:27+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Connections",
+        "name": "Connections",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:31+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Site Acquisitions",
+        "name": "Site Acquisitions",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:25+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Fox Hollow Due Diligence",
+        "name": "Fox Hollow Due Diligence",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Willow Woods Sale",
+        "name": "Willow Woods Sale",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:26+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/NAA 2016",
+        "name": "NAA 2016",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Alexander Pointe",
+        "name": "Alexander Pointe",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:38+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting\/Report_Folders",
+        "name": "Month End Reports",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Sampson - FP 4",
+        "name": "Sampson - FP 4",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Seema",
+        "name": "Seema",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Tree Top - 805 Fire",
+        "name": "Tree Top - 805 Fire",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:26+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/RollingHills",
+        "name": "Rolling Hills",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:23+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/training",
+        "name": "Training",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End 2014\/East",
+        "name": "Year End 2014 - East",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:34+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End Accounting Close Out\/West",
+        "name": "Year End - West",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:35+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Acquisitions",
+        "name": "Acquisitions",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:18+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Wellness",
+        "name": "Wellness Wednesday",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Budgets",
+        "name": "Budgets",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/MonthCalendar",
+        "name": "Monthly Calendars",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:32+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/ResMan",
+        "name": "ResMan",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Year End - LM",
+        "name": "Year End - LM",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:26+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Longview Sale",
+        "name": "Longview Sale",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:21+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Staffing",
+        "name": "Staffing",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:25+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Z - Quickbooks Files",
+        "name": "Z - Quickbooks Files",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:27+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HR\/Regional",
+        "name": "Regional",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/training\/Webinars",
+        "name": "Webinars",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:34+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting\/Home",
+        "name": "ME Reports - Home Office",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Play Ground",
+        "name": "Play Ground",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:23+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/forms",
+        "name": "Forms",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:32+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Rolling Hills",
+        "name": "Rolling Hills",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/NAA Expo",
+        "name": "NAA Training",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:23+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Balfour_Closing",
+        "name": "Balfour_Closing",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:18+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HR\/payroll",
+        "name": "Payroll",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Month End",
+        "name": "Month End",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:21+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting\/West",
+        "name": "ME Reports - West",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Budgets\/budgets2019",
+        "name": "Budgets 2019",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Staffing\/Corp",
+        "name": "Staffing - Corp",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Budgets\/budgets2019\/lisa2019",
+        "name": "Lisa - Budget 2019",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HR",
+        "name": "HR",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:38+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Reporting\/Traffic",
+        "name": "Traffic",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Staffing\/East",
+        "name": "Staffing - East",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Hillcrest",
+        "name": "Hillcrest",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Willow Woods Apartments",
+        "name": "Willow Woods Apartments",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:26+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/Guidance",
+        "name": "Corona Virus Guidance",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:31+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Fox Hollow Audit",
+        "name": "Fox Hollow Audit",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/HR\/Salary",
+        "name": "Salary Comparison Info",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/Employee Development\/OSHA_Training",
+        "name": "OSHA Training",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NevinPlaceApartments",
+        "name": "Nevin Place Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Westgrove",
+        "name": "Apartments of Westgrove",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:51+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Chase",
+        "name": "Chase",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:45+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GreenviewMeadowsApts",
+        "name": "Greenview Meadows",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-14T06:36:10+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CedarRidge",
+        "name": "Cedar Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-28T06:36:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CoronaVirus",
+        "name": "Corona Virus",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:47+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/RaleighProperties",
+        "name": "Raleigh Properties",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:39+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Keystone",
+        "name": "Keystone",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-06T06:35:59+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/OaksApartments",
+        "name": "Oaks Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-14T06:35:20+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AccountingTeam",
+        "name": "Accounting Team",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/LMA-LindseyManorGindi",
+        "name": "LMA - Lindsey Manor Gindi",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-10-08T06:45:53+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/appleadmin",
+        "name": "AppleAdmin",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CrossCreek",
+        "name": "Cross Creek",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-24T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Briarwood",
+        "name": "Briarwood",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-24T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/DynamicHiring",
+        "name": "Dynamic Hiring",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Payroll",
+        "name": "Payroll",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:48+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Burlington-HarrisProperies",
+        "name": "Burlington-Harris Properies",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/KSA",
+        "name": "KSA",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-17T07:35:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TrailsEndApartments",
+        "name": "Trails End Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-16T07:35:51+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HawkRidgeTeamSite",
+        "name": "Hawk Ridge Team Site",
+        "seatType": "TeamSite",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2022-06-29T06:35:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Sweetgrass",
+        "name": "Sweetgrass",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:42+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TaprootRentals",
+        "name": "Taproot Rentals",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-05T07:36:00+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/DynamicHiring-HR",
+        "name": "Dynamic Hiring-HR",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:47+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/KirkwoodPlace",
+        "name": "Kirkwood Place",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-12T07:35:38+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Windtree",
+        "name": "Windtree",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HRA",
+        "name": "HRA",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-17T07:35:28+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/WindtreeApts",
+        "name": "Windtree Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:44+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ParksideWolf",
+        "name": "Parkside Wolf",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/allproperties",
+        "name": "Properties",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-03T07:35:50+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/OurTeamResource",
+        "name": "Our Team Resource",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/mortgage",
+        "name": "Mortgage",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HawkRidge",
+        "name": "Hawk Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-01T06:35:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/SweetgrassLanding",
+        "name": "Sweetgrass Landing",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TheHudson",
+        "name": "The Hudson",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-09T06:36:01+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/esc",
+        "name": "ESC",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-10-27T06:36:11+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GlendaleApts",
+        "name": "Glendale Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/DD",
+        "name": "DD",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-29T07:35:51+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Upstream",
+        "name": "Upstream",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-15T07:36:13+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ParksideFivePoints",
+        "name": "Parkside Five Points",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ForestPointeApartments",
+        "name": "Forest Pointe Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:50+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GrandOaks",
+        "name": "Grand Oaks Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-04-28T06:40:32+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CedarRidgeApts",
+        "name": "Cedar Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-14T06:36:10+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TreetopApts",
+        "name": "Treetop Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:50+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GlendaleOffice",
+        "name": "Glendale Office",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-30T06:35:07+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/oakpointeapts",
+        "name": "Oak Pointe Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-06T07:35:52+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ColonySquare",
+        "name": "Colony Square",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-02T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CardinalVillage",
+        "name": "Cardinal Village",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-08-09T06:35:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Newsletter",
+        "name": "Newsletter",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:50+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/EmployeeEngagement",
+        "name": "Employee Engagement",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:47+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/OakPointe",
+        "name": "Oak Pointe ",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-12T07:35:38+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/WilsonWoodsTownhomes",
+        "name": "Wilson Woods Townhomes",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-27T06:35:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/JefferiesCove",
+        "name": "Jefferies Cove",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-09-07T06:35:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/MAGMA",
+        "name": "MAGMA",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/LindseyManorApartments",
+        "name": "Lindsey Manor Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/PineRidge",
+        "name": "Pine Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/LandmarkApts",
+        "name": "Landmark Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CaledonApartments\/Shared",
+        "name": "CAG Shared Files",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:17+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CaledonApartments\/Prop",
+        "name": "CAG Community Site",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:17+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CaledonApartments",
+        "name": "CaledonApartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CaledonApartments\/HO",
+        "name": "CAG Home Office",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:17+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Blah",
+        "name": "Blah",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/KeystoneFolder",
+        "name": "Keystone Folder",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-13T06:36:02+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/54Station",
+        "name": "54 Station",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:45+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Taproot",
+        "name": "Taproot",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-12-10T07:36:03+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/contentTypeHub",
+        "name": "Team Site",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:35+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CentennialLoft",
+        "name": "Centennial Loft",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/MAGMASITES",
+        "name": "MAGMA SITES",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-02-03T02:36:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/OakTrailsStaff",
+        "name": "Oak\/Trails Staff",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2022-06-25T06:35:17+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Lakeview",
+        "name": "Lakeview",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-29T06:35:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/RegencyApts",
+        "name": "Regency Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:44+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AshburySquareApartments",
+        "name": "Ashbury Square Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/2021ApartmentalizePeeps",
+        "name": "2021 Apartmentalize Peeps",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CardinalApartments-Jacksonville",
+        "name": "Cardinal Apartments - Jacksonville",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-08-09T06:35:30+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Park",
+        "name": "The Park",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-28T06:36:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ChateauApartments",
+        "name": "Chateau Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-04T02:39:48+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TestPlan",
+        "name": "Test Plan",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:42+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Corona",
+        "name": "Corona",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:47+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TrainingandEducation",
+        "name": "Training and Education",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CardinalApartments",
+        "name": "Cardinal Townhomes",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-06-29T06:50:37+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NorthInglesideTownhomes",
+        "name": "North Ingleside Townhomes",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Office",
+        "name": "Regency and Lakeshore Folder",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:46+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/BradfordPark",
+        "name": "Bradford Park",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-25T06:36:15+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TomsArchivedEmail",
+        "name": "TomArchiveMail",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:48+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Cobblestone",
+        "name": "Cobblestone",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-02T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Community",
+        "name": "Community",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-02-03T07:36:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CFMS",
+        "name": "CFMS",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:48+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/test",
+        "name": "test",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/WTOffice",
+        "name": "WT Office",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AXPMGMT",
+        "name": "AXP MGMT",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Chelsea",
+        "name": "The Chelsea",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-01T06:35:27+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GreenviewMeadows",
+        "name": "Greenview Meadows",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-28T06:36:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Eastbrooke",
+        "name": "Eastbrooke Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:48+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Projects",
+        "name": "Projects - Home Office",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:35+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AptDynClients",
+        "name": "AptDyn Clients",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-04T07:37:06+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AXP",
+        "name": "AXP",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/FPDSale",
+        "name": "FPD Sale",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-07-06T06:35:24+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/WhickerRoad",
+        "name": "Whicker Road",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-10-09T06:48:29+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/JamestownManor",
+        "name": "Jamestown Manor",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-10-27T06:36:11+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TheHenley",
+        "name": "The Henley",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-09T06:36:01+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NewPropertyTemplate",
+        "name": "New Property Template",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-19T06:43:19+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/JeffriesCoveApartments",
+        "name": "Jeffries Cove Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2023-01-17T07:35:55+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Oaks",
+        "name": "Oaks",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-17T06:39:53+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Test-TEA-OPA",
+        "name": "Test - TEA-OPA",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-09T06:35:52+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Software",
+        "name": "Software",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Test2",
+        "name": "Test",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-11-25T07:35:58+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TreetopOffice",
+        "name": "Treetop Office",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:41+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NorthCrossings",
+        "name": "North Crossing",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-02T06:35:36+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HQ",
+        "name": "HQ",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:45+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/CypressGrove",
+        "name": "Cypress Grove",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-03-17T06:36:00+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/PineRidgeTownhomes",
+        "name": "Pine Ridge Townhomes",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-18T07:35:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/EB",
+        "name": "EB",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-02-03T02:36:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ChambersRidgeApartments",
+        "name": "Chambers Ridge Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:44+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ArborsatNorthHills",
+        "name": "Arbors at North Hills",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-27T06:35:33+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TylersRidge",
+        "name": "Tylers Ridge",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-09-07T06:35:22+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Traction",
+        "name": "Traction",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-04T06:59:54+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Shared%20Apps",
+        "name": "Apartment Dynamics SharePoint Apps",
+        "seatType": "Site",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:35+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ParkApts",
+        "name": "Park",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-14T06:36:10+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NAATrainingConferences",
+        "name": "NAA Training Conferences",
+        "seatType": "TeamSite",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:44+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/GrenttonPlaceApartments",
+        "name": "Grentton Place Apartments",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:42+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AshburySquare",
+        "name": "Ashbury Square",
+        "seatType": "Site",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-11-10T07:35:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Vendors",
+        "name": "Vendors",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:40+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/LakeshoreGrandeApts",
+        "name": "Lakeshore Grande Apts",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:50+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/TheHampton",
+        "name": "The Hampton",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-09T06:36:01+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/PRT",
+        "name": "PRT",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-12-24T07:35:42+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/AllSalesTeam-c036c9b0-d80c-423b-afed-8642ce2d6076",
+        "name": "Outlook Customer Manager",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:43+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/HarrisProperties",
+        "name": "Harris Properties",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:44+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Ferndale",
+        "name": "Ferndale",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:42+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/MidtownPark",
+        "name": "Midtown Park",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:45+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/Edgewood",
+        "name": "EWA - Edgewood",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-06T07:35:52+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/ColonyTownhomes",
+        "name": "Colony Townhomes",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:49+00:00"
+    },
+    {
+        "mainId": "https:\/\/aptdynamics.sharepoint.com\/sites\/NewNormal",
+        "name": "NewNormal",
+        "seatType": "TeamSite",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:47+00:00"
+    },
+    {
+        "mainId": "Parker@aptdynamics.com",
+        "name": "Parkside Five Points",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:50+00:00"
+    },
+    {
+        "mainId": "howard@aptdynamics.com",
+        "name": "Hawk Ridge Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-27T06:35:43+00:00"
+    },
+    {
+        "mainId": "jcaraway@aptdynamics.com",
+        "name": "John Caraway",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-26T06:34:39+00:00"
+    },
+    {
+        "mainId": "MGobble@aptdynamics.com",
+        "name": "Misty Gobble",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "CGray@aptdynamics.com",
+        "name": "Celina Gray (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:46+00:00"
+    },
+    {
+        "mainId": "MChappell@aptdynamics.com",
+        "name": "Madison Chappell",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-28T07:34:50+00:00"
+    },
+    {
+        "mainId": "MGrice@aptdynamics.com",
+        "name": "Matthew Grice",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:50+00:00"
+    },
+    {
+        "mainId": "jogle@aptdynamics.com",
+        "name": "James Ogle",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "NatesTeam@aptdynamics.com",
+        "name": "Nate\u0027s Team",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-10-26T06:35:53+00:00"
+    },
+    {
+        "mainId": "terry@aptdynamics.com",
+        "name": "Chambers Ridge Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:46+00:00"
+    },
+    {
+        "mainId": "jgalmed@aptdynamics.com",
+        "name": "Jason Galmed",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-12-23T07:34:23+00:00"
+    },
+    {
+        "mainId": "ACarney@aptdynamics.com",
+        "name": "Alison Carney (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "NBorne@aptdynamics.com",
+        "name": "Nathan Borne",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-23T06:34:36+00:00"
+    },
+    {
+        "mainId": "CTanksley@aptdynamics.com",
+        "name": "Calvin Tanksley",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:35+00:00"
+    },
+    {
+        "mainId": "nolan@aptdynamics.com",
+        "name": "The Hampton Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-05T06:35:34+00:00"
+    },
+    {
+        "mainId": "SMO-AptDynMarketing@aptdynamics.com",
+        "name": "AptDyn Marketing",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "KRuiz@aptdynamics.com",
+        "name": "Kevin Ruiz",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-17T07:34:55+00:00"
+    },
+    {
+        "mainId": "ceverette@aptdynamics.com",
+        "name": "Cory Everette",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-08T07:34:56+00:00"
+    },
+    {
+        "mainId": "JLeak@aptdynamics.com",
+        "name": "Justin Leak",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-10-08T06:34:51+00:00"
+    },
+    {
+        "mainId": "rvoyce@aptdynamics.com",
+        "name": "Rachel Voyce",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-01T07:34:34+00:00"
+    },
+    {
+        "mainId": "ssmoot@aptdynamics.com",
+        "name": "Sydney Smoot",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-12T06:34:43+00:00"
+    },
+    {
+        "mainId": "paige@aptdynamics.com",
+        "name": "Pine Ridge Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "lminor@aptdynamics.com",
+        "name": "Lena Minor",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-05-24T06:34:37+00:00"
+    },
+    {
+        "mainId": "mhayworth@aptdynamics.com",
+        "name": "Mike Hayworth",
+        "seatType": "User",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-05-28T06:34:34+00:00"
+    },
+    {
+        "mainId": "DHoffman@aptdynamics.com",
+        "name": "Darren Hoffman",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:54+00:00"
+    },
+    {
+        "mainId": "HTilley@aptdynamics.com",
+        "name": "Haley Tilley",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-09-27T06:34:41+00:00"
+    },
+    {
+        "mainId": "mbanks@aptdynamics.com",
+        "name": "Marcus Banks (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-10-16T06:35:26+00:00"
+    },
+    {
+        "mainId": "bcox@aptdynamics.com",
+        "name": "Brandy  Cox",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-02T06:34:19+00:00"
+    },
+    {
+        "mainId": "twillaford@aptdynamics.com",
+        "name": "Tonya Willaford",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-04-06T06:34:34+00:00"
+    },
+    {
+        "mainId": "jscott@aptdynamics.com",
+        "name": "Jennifer Scott",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-03-26T06:34:39+00:00"
+    },
+    {
+        "mainId": "Maritza@aptdynamics.com",
+        "name": "Maritza",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-07T06:34:46+00:00"
+    },
+    {
+        "mainId": "test@aptdynamics.com",
+        "name": "test",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-08-31T06:39:41+00:00"
+    },
+    {
+        "mainId": "CSmith@aptdynamics.com",
+        "name": "Charles Smith",
+        "seatType": "SharedMailbox",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:50+00:00"
+    },
+    {
+        "mainId": "rfrancois@aptdynamics.com",
+        "name": "GiGi Francois (Shared Mailbox)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-06-05T06:34:36+00:00"
+    },
+    {
+        "mainId": "mmelgar@aptdynamics.com",
+        "name": "Marvin Melgar",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:56+00:00"
+    },
+    {
+        "mainId": "atorres@aptdynamics.com",
+        "name": "Abigail Torres",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-08-05T06:34:35+00:00"
+    },
+    {
+        "mainId": "jhowell@aptdynamics.com",
+        "name": "Jamie Howell",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-02T06:34:39+00:00"
+    },
+    {
+        "mainId": "tjones@aptdynamics.com",
+        "name": "Scott Jones",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "kevin@aptdynamics.com",
+        "name": "Kirkwood Place Apartments Marketing",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-11T07:35:21+00:00"
+    },
+    {
+        "mainId": "VHenderson@aptdynamics.com",
+        "name": "Vernon Henderson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-18T07:34:47+00:00"
+    },
+    {
+        "mainId": "TMelton@aptdynamics.com",
+        "name": "Trey Melton",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-10-04T06:34:35+00:00"
+    },
+    {
+        "mainId": "rballard@aptdynamics.com",
+        "name": "Ryan Ballard",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-24T06:34:37+00:00"
+    },
+    {
+        "mainId": "ZCurlee@aptdynamics.com",
+        "name": "Zachary Curlee",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "LapTops@aptdynamics.com",
+        "name": "LapTops",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "mmiller-simons@aptdynamics.com",
+        "name": "Michelle Miller-Simons",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:35+00:00"
+    },
+    {
+        "mainId": "Worship@aptdynamics.com",
+        "name": "Worship",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-07-31T06:36:43+00:00"
+    },
+    {
+        "mainId": "rputnam@aptdynamics.com",
+        "name": "Russell Putnam",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-12-14T07:34:25+00:00"
+    },
+    {
+        "mainId": "CWalker@aptdynamics.com",
+        "name": "Carmella Walker",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-22T07:34:52+00:00"
+    },
+    {
+        "mainId": "AHamlett@aptdynamics.com",
+        "name": "Angela Hamlett",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:48+00:00"
+    },
+    {
+        "mainId": "HomeOffice7192@aptdynamics.com",
+        "name": "Home Office",
+        "seatType": "Team",
+        "seatState": "Archived",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:37+00:00"
+    },
+    {
+        "mainId": "JJune@aptdynamics.com",
+        "name": "Jackie June",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-21T07:34:56+00:00"
+    },
+    {
+        "mainId": "vwoods@aptdynamics.com",
+        "name": "Vanessa Woods",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-23T07:34:21+00:00"
+    },
+    {
+        "mainId": "JLopez@aptdynamics.com",
+        "name": "Juan Lopez (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:45+00:00"
+    },
+    {
+        "mainId": "KFearrington@aptdynamics.com",
+        "name": "Knisha Fearrington",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "itisupport@aptdynamics.com",
+        "name": "Integrated Technologies",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-04-21T06:34:12+00:00"
+    },
+    {
+        "mainId": "SMartin@aptdynamics.com",
+        "name": "Sam Martin",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-15T06:34:49+00:00"
+    },
+    {
+        "mainId": "lisa@aptdynamics.com",
+        "name": "Forest Pointe Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:47+00:00"
+    },
+    {
+        "mainId": "DSimmons@aptdynamics.com",
+        "name": "Dontae Simmons",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-03-18T06:34:49+00:00"
+    },
+    {
+        "mainId": "IMartin@aptdynamics.com",
+        "name": "Ian Martin",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-10T07:35:03+00:00"
+    },
+    {
+        "mainId": "CMoore@aptdynamics.com",
+        "name": "Chad Moore",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-10-06T06:34:38+00:00"
+    },
+    {
+        "mainId": "MPorcher@aptdynamics.com",
+        "name": "Mark Porcher",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-21T06:34:44+00:00"
+    },
+    {
+        "mainId": "sherry@aptdynamics.com",
+        "name": "Sherrill Place",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-01-06T07:35:35+00:00"
+    },
+    {
+        "mainId": "DAmos@aptdynamics.com",
+        "name": "Dennis Amos",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-29T07:34:57+00:00"
+    },
+    {
+        "mainId": "celia@aptdynamics.com",
+        "name": "Centennial Lofts Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "TQuinn@aptdynamics.com",
+        "name": "Taylor Quinn",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-05T06:34:41+00:00"
+    },
+    {
+        "mainId": "chris@aptdynamics.com",
+        "name": "Cobblestone Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-04-05T06:35:34+00:00"
+    },
+    {
+        "mainId": "mhargett@aptdynamics.com",
+        "name": "Michael Hargett",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-07-30T06:34:39+00:00"
+    },
+    {
+        "mainId": "jglenn@aptdynamics.com",
+        "name": "Jennifer Glenn",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:54+00:00"
+    },
+    {
+        "mainId": "DFuller@aptdynamics.com",
+        "name": "Dana Fuller",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "laura@aptdynamics.com",
+        "name": "Lakeshore Grande Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:52+00:00"
+    },
+    {
+        "mainId": "lgoodwin@aptdynamics.com",
+        "name": "Latosha Goodwin",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-10-16T06:35:26+00:00"
+    },
+    {
+        "mainId": "elindsay@aptdynamics.com",
+        "name": "Ellie Lindsay",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-06-15T06:34:56+00:00"
+    },
+    {
+        "mainId": "KMcCray@aptdynamics.com",
+        "name": "Karrie McCray",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:56+00:00"
+    },
+    {
+        "mainId": "MMartinez@aptdynamics.com",
+        "name": "Miguel Martinez",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-14T06:34:43+00:00"
+    },
+    {
+        "mainId": "lynn@aptdynamics.com",
+        "name": "Lynn Hemm",
+        "seatType": "SharedMailbox",
+        "seatState": "Unprotected",
+        "billable": "",
+        "dateAdded": "2022-03-03T07:34:32+00:00"
+    },
+    {
+        "mainId": "Data@aptdynamics.com",
+        "name": "AptDyn Shared File Storage",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "DYork@aptdynamics.com",
+        "name": "Derrick York",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-23T07:35:07+00:00"
+    },
+    {
+        "mainId": "Amy@aptdynamics.com",
+        "name": "Alexander Pointe Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:43+00:00"
+    },
+    {
+        "mainId": "tomsarchive@aptdynamics.com",
+        "name": "Tom\u0027s Archive Big",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "CByers@aptdynamics.com",
+        "name": "Carl Byers",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-12-28T07:35:16+00:00"
+    },
+    {
+        "mainId": "Ivy@aptdynamics.com",
+        "name": "North Ingleside Townhomes",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "tgwyn@aptdynamics.com",
+        "name": "Tom Gwyn",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:42+00:00"
+    },
+    {
+        "mainId": "ROllis@aptdynamics.com",
+        "name": "Ronald Ollis",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:47+00:00"
+    },
+    {
+        "mainId": "casey@aptdynamics.com",
+        "name": "Capital Flats \u0026 Magnolia Square",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:51+00:00"
+    },
+    {
+        "mainId": "MKowalski@aptdynamics.com",
+        "name": "Mackenzie Kowalski",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-03-18T06:34:49+00:00"
+    },
+    {
+        "mainId": "Anna@aptdynamics.com",
+        "name": "Ashbury Square Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:54+00:00"
+    },
+    {
+        "mainId": "fvazquez@aptdynamics.com",
+        "name": "Felix Vazquez",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-04-12T06:34:42+00:00"
+    },
+    {
+        "mainId": "Peter@aptdynamics.com",
+        "name": "Parliament House \u0026 Collins Park",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:42+00:00"
+    },
+    {
+        "mainId": "lfuller@aptdynamics.com",
+        "name": "Lee Fuller",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:54+00:00"
+    },
+    {
+        "mainId": "SWhisenant@aptdynamics.com",
+        "name": "Scott Whisenant",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-01-20T07:34:58+00:00"
+    },
+    {
+        "mainId": "jferrell@aptdynamics.com",
+        "name": "James Ferrell",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-02-25T07:34:31+00:00"
+    },
+    {
+        "mainId": "CMelvin@aptdynamics.com",
+        "name": "Crystal Melvin",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:46+00:00"
+    },
+    {
+        "mainId": "eddie@aptdynamics.com",
+        "name": "Edgewood Apartments",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-02-11T07:35:28+00:00"
+    },
+    {
+        "mainId": "JMoran@aptdynamics.com",
+        "name": "Juan Moran",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:40+00:00"
+    },
+    {
+        "mainId": "AshburySquare1@aptdynamics.com",
+        "name": "Ashbury Square",
+        "seatType": "Team",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-01-05T20:04:38+00:00"
+    },
+    {
+        "mainId": "tbullis@aptdynamics.com",
+        "name": "Thomas Bullis",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-08-05T06:34:35+00:00"
+    },
+    {
+        "mainId": "Office-MC@aptdynamics.com",
+        "name": "Office Meadow Creek",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-03-19T06:34:30+00:00"
+    },
+    {
+        "mainId": "AptDynTemp@aptdynamics.com",
+        "name": "Dorothea Mason-Dey",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2021-04-03T06:34:11+00:00"
+    },
+    {
+        "mainId": "donotreply@aptdynamics.com",
+        "name": "Do Not Reply",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:38+00:00"
+    },
+    {
+        "mainId": "gmailmtc@aptdynamics.com",
+        "name": "GMail Maintenance",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:57+00:00"
+    },
+    {
+        "mainId": "apartmentsofwestgrove@aptdynamics.com",
+        "name": "Apartments of Westgrove",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-03-16T13:40:50+00:00"
+    },
+    {
+        "mainId": "RWilson@aptdynamics.com",
+        "name": "Raymond Wilson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-02-18T07:34:47+00:00"
+    },
+    {
+        "mainId": "rhoglen@aptdynamics.com",
+        "name": "Robert Hoglen",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-06-11T06:36:21+00:00"
+    },
+    {
+        "mainId": "JParrish@aptdynamics.com",
+        "name": "Jonathan Parrish",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:36+00:00"
+    },
+    {
+        "mainId": "SGaray@aptdynamics.com",
+        "name": "Susan Garay",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:37+00:00"
+    },
+    {
+        "mainId": "PSavage@aptdynamics.com",
+        "name": "Pasjion Savage",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2023-04-12T19:42:39+00:00"
+    },
+    {
+        "mainId": "RAnderson@aptdynamics.com",
+        "name": "Richard Anderson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-11-12T07:34:30+00:00"
+    },
+    {
+        "mainId": "djohnson@aptdynamics.com",
+        "name": "Darlein Johnson",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-07-14T06:34:39+00:00"
+    },
+    {
+        "mainId": "clockett@aptdynamics.com",
+        "name": "Carmen Lockett",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-06-21T06:34:35+00:00"
+    },
+    {
+        "mainId": "LDee@aptdynamics.com",
+        "name": "Laken Dee",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:44+00:00"
+    },
+    {
+        "mainId": "jgarcia@aptdynamics.com",
+        "name": "Josue Garcia",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2022-06-21T06:34:35+00:00"
+    },
+    {
+        "mainId": "cdailey@aptdynamics.com",
+        "name": "Carlene Dailey (Shared Mailbox Anchor)",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-05-13T06:34:24+00:00"
+    },
+    {
+        "mainId": "jjohnson@aptdynamics.com",
+        "name": "Jed Johnson",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2021-05-18T06:45:15+00:00"
+    },
+    {
+        "mainId": "RIsley@aptdynamics.com",
+        "name": "Ryan Isley",
+        "seatType": "SharedMailbox",
+        "seatState": "Active",
+        "billable": "",
+        "dateAdded": "2022-11-22T07:34:52+00:00"
+    },
+    {
+        "mainId": "RHill@aptdynamics.com",
+        "name": "Ryan Hill",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:38+00:00"
+    },
+    {
+        "mainId": "RGoodhart@aptdynamics.com",
+        "name": "Robert Goodhart",
+        "seatType": "User",
+        "seatState": "Active",
+        "billable": "1",
+        "dateAdded": "2021-03-16T13:40:49+00:00"
+    },
+    {
+        "mainId": "arichardson@aptdynamics.com",
+        "name": "Aaron Richardson",
+        "seatType": "User",
+        "seatState": "Archived",
+        "billable": "1",
+        "dateAdded": "2022-05-27T06:34:36+00:00"
+    }
+]

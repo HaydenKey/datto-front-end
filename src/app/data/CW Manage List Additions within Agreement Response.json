@@ -1,0 +1,194 @@
+[
+    {
+        "id": 528,
+        "product": {
+            "id": 39,
+            "identifier": "ESS WS",
+            "_info": {
+                "catalog_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//procurement/catalog/39"
+            }
+        },
+        "quantity": 90.00,
+        "lessIncluded": 0.00,
+        "unitPrice": 20.000000,
+        "unitCost": 0.000000,
+        "billCustomer": "Billable",
+        "effectiveDate": "2020-12-28T00:00:00Z",
+        "cancelledDate": "2022-01-31T00:00:00Z",
+        "taxableFlag": true,
+        "invoiceDescription": "",
+        "purchaseItemFlag": false,
+        "specialOrderFlag": false,
+        "agreementId": 216,
+        "description": "Essentials Managed Service- Workstation",
+        "billedQuantity": 90.00,
+        "uom": "Each",
+        "extPrice": 1800.000000,
+        "extCost": 0.000000,
+        "sequenceNumber": 1.00,
+        "margin": 1800.000000,
+        "prorateCost": 0.000000,
+        "proratePrice": 0.000000,
+        "extendedProrateCost": 0.000000,
+        "extendedProratePrice": 211.610000,
+        "prorateCurrentPeriodFlag": false,
+        "agreementStatus": "Cancelled",
+        "_info": {
+            "lastUpdated": "2022-01-17T19:12:01Z",
+            "updatedBy": "sbundy"
+        }
+    },
+    {
+        "id": 529,
+        "product": {
+            "id": 529,
+            "identifier": "ITI Labor- PPH 5+",
+            "_info": {
+                "catalog_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//procurement/catalog/529"
+            }
+        },
+        "quantity": 20.00,
+        "lessIncluded": 0.00,
+        "unitPrice": 125.000000,
+        "unitCost": 0.000000,
+        "billCustomer": "Billable",
+        "effectiveDate": "2020-12-28T00:00:00Z",
+        "cancelledDate": "2021-08-31T00:00:00Z",
+        "taxableFlag": true,
+        "invoiceDescription": "Pre-Paid MSP hours per month 5+",
+        "purchaseItemFlag": false,
+        "specialOrderFlag": false,
+        "agreementId": 216,
+        "description": "Pre-paid MSP Labor 5+",
+        "billedQuantity": 20.00,
+        "uom": "Each",
+        "extPrice": 2500.000000,
+        "extCost": 0.000000,
+        "sequenceNumber": 2.00,
+        "margin": 2500.000000,
+        "prorateCost": 0.000000,
+        "proratePrice": 16.129032,
+        "extendedProrateCost": 0.000000,
+        "extendedProratePrice": 322.580000,
+        "prorateCurrentPeriodFlag": false,
+        "agreementStatus": "Cancelled",
+        "_info": {
+            "lastUpdated": "2021-08-23T16:17:00Z",
+            "updatedBy": "sbundy"
+        }
+    },
+    {
+        "id": 530,
+        "product": {
+            "id": 678,
+            "identifier": "Datto Saas per User",
+            "_info": {
+                "catalog_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//procurement/catalog/678"
+            }
+        },
+        "quantity": 152.00,
+        "lessIncluded": 0.00,
+        "unitPrice": 4.000000,
+        "unitCost": 0.000000,
+        "billCustomer": "Billable",
+        "effectiveDate": "2021-01-07T00:00:00Z",
+        "taxableFlag": true,
+        "invoiceDescription": "- Datto Backup for Office 365 Email and SharePoint ( per user)",
+        "purchaseItemFlag": false,
+        "specialOrderFlag": false,
+        "agreementId": 216,
+        "description": "Datto Saas per User",
+        "billedQuantity": 152.00,
+        "uom": "Each",
+        "extPrice": 608.000000,
+        "extCost": 0.000000,
+        "sequenceNumber": 3.00,
+        "margin": 608.000000,
+        "prorateCost": 0.000000,
+        "proratePrice": 0.000000,
+        "extendedProrateCost": 0.000000,
+        "extendedProratePrice": 399.999944,
+        "prorateCurrentPeriodFlag": false,
+        "agreementStatus": "Active",
+        "_info": {
+            "lastUpdated": "2023-02-24T20:55:00Z",
+            "updatedBy": "sbundy"
+        }
+    },
+    {
+        "id": 728,
+        "product": {
+            "id": 529,
+            "identifier": "ITI Labor- PPH 5+",
+            "_info": {
+                "catalog_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//procurement/catalog/529"
+            }
+        },
+        "quantity": 20.00,
+        "lessIncluded": 0.00,
+        "unitPrice": 125.000000,
+        "unitCost": 0.000000,
+        "billCustomer": "Billable",
+        "effectiveDate": "2021-10-01T00:00:00Z",
+        "taxableFlag": true,
+        "invoiceDescription": "Pre-Paid MSP hours per month 5+",
+        "purchaseItemFlag": false,
+        "specialOrderFlag": false,
+        "agreementId": 216,
+        "description": "Pre-paid MSP Labor 5+",
+        "billedQuantity": 20.00,
+        "uom": "Each",
+        "extPrice": 2500.000000,
+        "extCost": 0.000000,
+        "sequenceNumber": 4.00,
+        "margin": 2500.000000,
+        "prorateCost": 0.000000,
+        "proratePrice": 125.000000,
+        "extendedProrateCost": 0.000000,
+        "extendedProratePrice": 2500.000000,
+        "prorateCurrentPeriodFlag": false,
+        "agreementStatus": "Active",
+        "_info": {
+            "lastUpdated": "2021-10-01T20:20:26Z",
+            "updatedBy": "sbundy"
+        }
+    },
+    {
+        "id": 778,
+        "product": {
+            "id": 774,
+            "identifier": "Essentials",
+            "_info": {
+                "catalog_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//procurement/catalog/774"
+            }
+        },
+        "quantity": 165.00,
+        "lessIncluded": 0.00,
+        "unitPrice": 25.000000,
+        "unitCost": 0.000000,
+        "billCustomer": "Billable",
+        "effectiveDate": "2022-02-01T00:00:00Z",
+        "taxableFlag": true,
+        "invoiceDescription": "Essentials Managed Services - per device\n* Recurring Monthly Charge",
+        "purchaseItemFlag": false,
+        "specialOrderFlag": false,
+        "agreementId": 216,
+        "description": "Essentials Managed Service - per device",
+        "billedQuantity": 165.00,
+        "uom": "Each",
+        "extPrice": 4125.000000,
+        "extCost": 0.000000,
+        "sequenceNumber": 5.00,
+        "margin": 4125.000000,
+        "prorateCost": 0.000000,
+        "proratePrice": 0.000000,
+        "extendedProrateCost": 0.000000,
+        "extendedProratePrice": 2250.000000,
+        "prorateCurrentPeriodFlag": false,
+        "agreementStatus": "Active",
+        "_info": {
+            "lastUpdated": "2023-03-31T21:07:07Z",
+            "updatedBy": "sbundy"
+        }
+    }
+]

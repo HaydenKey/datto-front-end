@@ -1,0 +1,327 @@
+[
+    {
+        "backupStats": {
+            "activeServicesCount": 5,
+            "activeServicesWithRecentBackupCount": 4,
+            "backupPercentage": 80
+        },
+        "domain": "1s1ktruck",
+        "saasCustomerId": 378981,
+        "saasCustomerName": "1S1K Truck and Trailer Repair, LLC. ",
+        "seatsUsed": 5,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 8,
+            "activeServicesWithRecentBackupCount": 8,
+            "backupPercentage": 100
+        },
+        "domain": "agapparel",
+        "saasCustomerId": 251173,
+        "saasCustomerName": "Alpine Graphic Apparel",
+        "seatsUsed": 6,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 661,
+            "activeServicesWithRecentBackupCount": 661,
+            "backupPercentage": 100
+        },
+        "domain": "aptdynamics",
+        "saasCustomerId": 296985,
+        "saasCustomerName": "Apartment Dynamics",
+        "seatsUsed": 595,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 16,
+            "activeServicesWithRecentBackupCount": 16,
+            "backupPercentage": 100
+        },
+        "domain": "buckscomm",
+        "saasCustomerId": 259293,
+        "saasCustomerName": "Bucks Communications",
+        "seatsUsed": 9,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 12,
+            "activeServicesWithRecentBackupCount": 12,
+            "backupPercentage": 100
+        },
+        "domain": "cardinalconcretecompany",
+        "saasCustomerId": 281097,
+        "saasCustomerName": "Cardinal Concrete Company",
+        "seatsUsed": 9,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 34,
+            "activeServicesWithRecentBackupCount": 34,
+            "backupPercentage": 100
+        },
+        "domain": "centralcarolinaseeding",
+        "saasCustomerId": 358247,
+        "saasCustomerName": "Central Client Seeding",
+        "seatsUsed": 20,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 40,
+            "activeServicesWithRecentBackupCount": 40,
+            "backupPercentage": 100
+        },
+        "domain": "clinardoil",
+        "saasCustomerId": 390105,
+        "saasCustomerName": "Clinard Oil Company",
+        "seatsUsed": 22,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 17,
+            "activeServicesWithRecentBackupCount": 17,
+            "backupPercentage": 100
+        },
+        "domain": "DeeMartinRealty",
+        "saasCustomerId": 324654,
+        "saasCustomerName": "Dee Martin Realty Group",
+        "seatsUsed": 14,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 44,
+            "activeServicesWithRecentBackupCount": 44,
+            "backupPercentage": 100
+        },
+        "domain": "endeavorspts",
+        "saasCustomerId": 326757,
+        "saasCustomerName": "Endeavors Pediatric Therapy",
+        "seatsUsed": 31,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 12,
+            "activeServicesWithRecentBackupCount": 12,
+            "backupPercentage": 100
+        },
+        "domain": "EnergizeMinistries",
+        "saasCustomerId": 365238,
+        "saasCustomerName": "Energize Ministries",
+        "seatsUsed": 9,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 35,
+            "activeServicesWithRecentBackupCount": 35,
+            "backupPercentage": 100
+        },
+        "domain": "ericksonadvisors",
+        "saasCustomerId": 258317,
+        "saasCustomerName": "Erickson Advisors",
+        "seatsUsed": 28,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 46,
+            "activeServicesWithRecentBackupCount": 46,
+            "backupPercentage": 100
+        },
+        "domain": "glcglaw",
+        "saasCustomerId": 345477,
+        "saasCustomerName": "Gallimore Levy Chrisawn Gallimore",
+        "seatsUsed": 31,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 18,
+            "activeServicesWithRecentBackupCount": 18,
+            "backupPercentage": 100
+        },
+        "domain": "GrowinGreen",
+        "saasCustomerId": 321002,
+        "saasCustomerName": "Growin Green",
+        "seatsUsed": 13,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 46,
+            "activeServicesWithRecentBackupCount": 46,
+            "backupPercentage": 100
+        },
+        "domain": "hayworthchristian",
+        "saasCustomerId": 367296,
+        "saasCustomerName": "Hayworth Christian School",
+        "seatsUsed": 30,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 29,
+            "activeServicesWithRecentBackupCount": 29,
+            "backupPercentage": 100
+        },
+        "domain": "hpcvb",
+        "saasCustomerId": 254393,
+        "saasCustomerName": "High Point Convention and Visitors Bureau",
+        "seatsUsed": 23,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 14,
+            "activeServicesWithRecentBackupCount": 14,
+            "backupPercentage": 100
+        },
+        "domain": "highwaysandskyways7617",
+        "saasCustomerId": 345914,
+        "saasCustomerName": "Highways \u0026 Skyways of NC",
+        "seatsUsed": 8,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 16,
+            "activeServicesWithRecentBackupCount": 16,
+            "backupPercentage": 100
+        },
+        "domain": "integratednetworks",
+        "saasCustomerId": 259295,
+        "saasCustomerName": "Integrated Networks",
+        "seatsUsed": 12,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 21,
+            "activeServicesWithRecentBackupCount": 21,
+            "backupPercentage": 100
+        },
+        "domain": "integratedtechnologiesinc",
+        "saasCustomerId": 259290,
+        "saasCustomerName": "Integrated Technologies",
+        "seatsUsed": 13,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 31,
+            "activeServicesWithRecentBackupCount": 31,
+            "backupPercentage": 100
+        },
+        "domain": "buildersfireplace",
+        "saasCustomerId": 274400,
+        "saasCustomerName": "Kinamor - Builders Fireplace and Stone",
+        "seatsUsed": 23,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 27,
+            "activeServicesWithRecentBackupCount": 27,
+            "backupPercentage": 100
+        },
+        "domain": "LegacySaddlebreds",
+        "saasCustomerId": 342081,
+        "saasCustomerName": "Legacy Saddlebreds",
+        "seatsUsed": 17,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 12,
+            "activeServicesWithRecentBackupCount": 12,
+            "backupPercentage": 100
+        },
+        "domain": "mcallisterlawnc",
+        "saasCustomerId": 354653,
+        "saasCustomerName": "McAllister, Aldridge \u0026 Kreinbrink, PLLC",
+        "seatsUsed": 7,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 11,
+            "activeServicesWithRecentBackupCount": 11,
+            "backupPercentage": 100
+        },
+        "domain": "mcmetals",
+        "saasCustomerId": 321623,
+        "saasCustomerName": "M\u0026C Metals",
+        "seatsUsed": 6,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 23,
+            "activeServicesWithRecentBackupCount": 23,
+            "backupPercentage": 100
+        },
+        "domain": "mumctville",
+        "saasCustomerId": 276694,
+        "saasCustomerName": "Memorial United Methodist Church - Thomasville",
+        "seatsUsed": 17,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 21,
+            "activeServicesWithRecentBackupCount": 20,
+            "backupPercentage": 95.24
+        },
+        "domain": "millerambulanceservice",
+        "saasCustomerId": 357857,
+        "saasCustomerName": "Miller Ambulance Service",
+        "seatsUsed": 14,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    },
+    {
+        "backupStats": {
+            "activeServicesCount": 39,
+            "activeServicesWithRecentBackupCount": 39,
+            "backupPercentage": 100
+        },
+        "domain": "ottoandmoore",
+        "saasCustomerId": 307425,
+        "saasCustomerName": "Otto \u0026 Moore",
+        "seatsUsed": 27,
+        "productType": "Office365",
+        "retentionType": "ICR"
+    }
+]

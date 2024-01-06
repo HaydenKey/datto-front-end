@@ -1,0 +1,3715 @@
+[
+    {
+        "id": 250,
+        "identifier": "IntegratedTechnologiesIn1",
+        "name": "Integrated Technologies, Inc",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "PO Box 5164",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27262",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3363899090",
+        "faxNumber": "",
+        "website": "www.integratedtech.net",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "",
+        "defaultContact": {
+            "id": 1683,
+            "name": "Sarah Bundy",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/1683"
+            }
+        },
+        "dateAcquired": "2006-06-21T04:00:00Z",
+        "sicCode": {
+            "id": 1209,
+            "name": "5734 - Computer and software stores"
+        },
+        "annualRevenue": 0.00,
+        "timeZoneSetup": {
+            "id": 1,
+            "name": "GMT-5/Eastern Time: US & Canada",
+            "_info": {
+                "timeZoneSetup_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/timeZoneSetups/1"
+            }
+        },
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "userDefinedField5": "1",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 1,
+            "name": "Net 30 days"
+        },
+        "billToCompany": {
+            "id": 250,
+            "identifier": "IntegratedTechnologiesIn1",
+            "name": "Integrated Technologies, Inc",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250"
+            }
+        },
+        "billingSite": {
+            "id": 1000,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/sites/1000"
+            }
+        },
+        "billingContact": {
+            "id": 535,
+            "name": "Todd Bartlett",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/535"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 1,
+            "name": "Mail"
+        },
+        "invoiceToEmailAddress": "todd@integratedtech.net",
+        "deletedFlag": false,
+        "mobileGuid": "1df91371-6d7a-4778-ab81-f3e7761f5211",
+        "currency": {
+            "id": 7,
+            "symbol": "$",
+            "currencyCode": "USD",
+            "decimalSeparator": ".",
+            "numberOfDecimals": 2,
+            "thousandsSeparator": ",",
+            "negativeParenthesesFlag": false,
+            "displaySymbolFlag": true,
+            "currencyIdentifier": "USD",
+            "displayIdFlag": false,
+            "rightAlign": false,
+            "name": "US Dollars",
+            "_info": {
+                "currency_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/currencies/7"
+            }
+        },
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1000,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/sites/1000"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:24Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2006-06-21T16:04:59Z",
+            "enteredBy": "CONVERSION",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=250",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=250",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=250",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=250",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=250",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=250",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=250",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=250",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=250",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/250/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19296,
+        "identifier": "ConnectWise",
+        "name": "ConnectWise",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "4110 George Rd.",
+        "addressLine2": "Suite 200",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33634",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "8134634700",
+        "faxNumber": "8134634701",
+        "website": "www.ConnectWise.com",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "",
+        "defaultContact": {
+            "id": 4,
+            "name": "Help Contact Info",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/4"
+            }
+        },
+        "dateAcquired": "2010-07-13T04:00:00Z",
+        "annualRevenue": 0.00,
+        "timeZoneSetup": {
+            "id": 1,
+            "name": "GMT-5/Eastern Time: US & Canada",
+            "_info": {
+                "timeZoneSetup_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/timeZoneSetups/1"
+            }
+        },
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 1,
+            "name": "Net 30 days"
+        },
+        "billToCompany": {
+            "id": 19296,
+            "identifier": "ConnectWise",
+            "name": "ConnectWise",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296"
+            }
+        },
+        "billingSite": {
+            "id": 1001,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/sites/1001"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "mobileGuid": "12413b96-c658-49a1-a182-8486e52d6160",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1001,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/sites/1001"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-02-04T15:49:46Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2010-07-13T13:34:21Z",
+            "enteredBy": "CONVERSION",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19296",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19296",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19296",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19296",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19296",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19296",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19296",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19296",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19296",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19296/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Branson Buchanan"
+            }
+        ]
+    },
+    {
+        "id": 19297,
+        "identifier": "XYZTestCompany",
+        "name": "XYZ Test Company",
+        "status": {
+            "id": 33,
+            "name": "Test Notify Status",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/33"
+            }
+        },
+        "addressLine1": "123 Main Street",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33618",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "8135555555",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "",
+        "defaultContact": {
+            "id": 7,
+            "name": "Fred Stone",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/7"
+            }
+        },
+        "dateAcquired": "2010-07-13T04:00:00Z",
+        "annualRevenue": 0.00,
+        "timeZoneSetup": {
+            "id": 1,
+            "name": "GMT-5/Eastern Time: US & Canada",
+            "_info": {
+                "timeZoneSetup_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/timeZoneSetups/1"
+            }
+        },
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 1,
+            "name": "Net 30 days"
+        },
+        "billToCompany": {
+            "id": 19297,
+            "identifier": "XYZTestCompany",
+            "name": "XYZ Test Company",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297"
+            }
+        },
+        "billingSite": {
+            "id": 1002,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/sites/1002"
+            }
+        },
+        "billingContact": {
+            "id": 1,
+            "name": "Jorge Smith",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/1"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "mobileGuid": "2685633f-6375-4375-9df2-9ae518232583",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1002,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/sites/1002"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2023-01-04T15:02:42Z",
+            "updatedBy": "bransonb",
+            "dateEntered": "2010-07-13T13:53:11Z",
+            "enteredBy": "CONVERSION",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19297",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19297",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19297",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19297",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19297",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19297",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19297",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19297",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19297",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19297/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19298,
+        "identifier": "Catchall",
+        "name": "Catchall",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "Catchall",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "",
+        "defaultContact": {
+            "id": 9,
+            "name": "Valued Customer",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/9"
+            }
+        },
+        "dateAcquired": "2010-08-25T15:39:31Z",
+        "annualRevenue": 0.00,
+        "timeZoneSetup": {
+            "id": 1,
+            "name": "GMT-5/Eastern Time: US & Canada",
+            "_info": {
+                "timeZoneSetup_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/timeZoneSetups/1"
+            }
+        },
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 1,
+            "name": "Net 30 days"
+        },
+        "billToCompany": {
+            "id": 19298,
+            "identifier": "Catchall",
+            "name": "Catchall",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298"
+            }
+        },
+        "billingSite": {
+            "id": 1003,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/sites/1003"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "mobileGuid": "5ec92caf-0922-4120-9268-21580dbbcef8",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1003,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/sites/1003"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:21Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2010-08-25T15:39:31Z",
+            "enteredBy": "CONVERSION",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19298",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19298",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19298",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19298",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19298",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19298",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19298",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19298",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19298",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19298/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Branson Buchanan"
+            }
+        ]
+    },
+    {
+        "id": 19483,
+        "identifier": "ABCTEST",
+        "name": "ABC Test company",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "100 Main St",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27260",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "ABCTEST123",
+        "defaultContact": {
+            "id": 184,
+            "name": "John Doe",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/184"
+            }
+        },
+        "dateAcquired": "2018-06-05T12:10:56Z",
+        "annualRevenue": 0.00,
+        "timeZoneSetup": {
+            "id": 1,
+            "name": "GMT-5/Eastern Time: US & Canada",
+            "_info": {
+                "timeZoneSetup_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/timeZoneSetups/1"
+            }
+        },
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19483,
+            "identifier": "ABCTEST",
+            "name": "ABC Test company",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483"
+            }
+        },
+        "billingContact": {
+            "id": 184,
+            "name": "John Doe",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/184"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "mobileGuid": "217ffadc-c527-4277-bdbc-13f44320d8fa",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1188,
+            "name": "Main",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483/sites/1188"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-02-04T15:47:08Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T12:10:56Z",
+            "enteredBy": "rcalamba",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19483",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19483",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19483",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19483",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19483",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19483",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19483",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19483",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19483",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19483/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19661,
+        "identifier": "AO Home Delivery",
+        "name": "A&O Home Delivery",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "530 Pendelton St.",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27260",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368825500",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "AOHOME",
+        "defaultContact": {
+            "id": 1426,
+            "name": "D Hamilton",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/1426"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:40Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19661,
+            "identifier": "AO Home Delivery",
+            "name": "A&O Home Delivery",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661"
+            }
+        },
+        "billingSite": {
+            "id": 1366,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/sites/1366"
+            }
+        },
+        "billingContact": {
+            "id": 1426,
+            "name": "D Hamilton",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/1426"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "invoiceToEmailAddress": "dhamilton@aoinhome.com",
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:40Z",
+        "mobileGuid": "8106af55-6d12-4f77-804e-2166857afe61",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1366,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/sites/1366"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2020-10-02T14:53:58Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:40Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19661",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19661",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19661",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19661",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19661",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19661",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19661",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19661",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19661",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19661/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19662,
+        "identifier": "AAR of North Carolina",
+        "name": "AAR of North Carolina",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "655 Peddycord Rd.",
+        "city": "Kernersville",
+        "state": "NC",
+        "zip": "27284",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3367274534",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "AAR",
+        "defaultContact": {
+            "id": 360,
+            "name": "Rhonda Sigmon",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/360"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:40Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 14,
+            "name": "NC Sales Tax 7.0%",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/14"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19662,
+            "identifier": "AAR of North Carolina",
+            "name": "AAR of North Carolina",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662"
+            }
+        },
+        "billingSite": {
+            "id": 1367,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/sites/1367"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:40Z",
+        "mobileGuid": "3e3fcac3-eab2-4b56-a253-4b6aa3bbed26",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1367,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/sites/1367"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:17Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:40Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19662",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19662",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19662",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19662",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19662",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19662",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19662",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19662",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19662",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19662/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "NONE"
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19663,
+        "identifier": "Access Self Store",
+        "name": "Access Self Store",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "475 Arbor Hill Road",
+        "city": "Kernersville",
+        "state": "NC",
+        "zip": "27284",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3369962222",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "ACCSTO",
+        "defaultContact": {
+            "id": 361,
+            "name": "Tony Alford",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/361"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:40Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 14,
+            "name": "NC Sales Tax 7.0%",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/14"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19663,
+            "identifier": "Access Self Store",
+            "name": "Access Self Store",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663"
+            }
+        },
+        "billingSite": {
+            "id": 1368,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/sites/1368"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:40Z",
+        "mobileGuid": "f5e7562d-8162-426a-be18-cf6ed4aeca84",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1368,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/sites/1368"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:17Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:40Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19663",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19663",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19663",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19663",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19663",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19663",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19663",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19663",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19663",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19663/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19664,
+        "identifier": "ACME ",
+        "name": "ACME Sample",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "2410 Schirra Pl.",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27262",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368834187",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "ACME",
+        "defaultContact": {
+            "id": 362,
+            "name": "Amy Crowson",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/362"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:40Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19664,
+            "identifier": "ACME ",
+            "name": "ACME Sample",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664"
+            }
+        },
+        "billingSite": {
+            "id": 1369,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/sites/1369"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:40Z",
+        "mobileGuid": "48840f7c-bf76-442e-8d5f-54f0d1478ba4",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1369,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/sites/1369"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2020-12-03T15:10:54Z",
+            "updatedBy": "Automate",
+            "dateEntered": "2018-06-05T21:10:40Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19664",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19664",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19664",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19664",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19664",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19664",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19664",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19664",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19664",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19664/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19666,
+        "identifier": "Adrienne Cowan DDS",
+        "name": "Adrienne Cowan, D.D.S",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "1700 Westchester Drive",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27262",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "COWAN",
+        "defaultContact": {
+            "id": 364,
+            "name": "Adrienne Cowan",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/364"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:41Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19666,
+            "identifier": "Adrienne Cowan DDS",
+            "name": "Adrienne Cowan, D.D.S",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666"
+            }
+        },
+        "billingSite": {
+            "id": 1371,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/sites/1371"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:41Z",
+        "mobileGuid": "b71fde40-0e27-4da8-a65d-5c5ff2d7e195",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 31,
+                "name": "Former Client",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/31"
+                }
+            }
+        ],
+        "site": {
+            "id": 1371,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/sites/1371"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2020-08-17T18:00:53Z",
+            "updatedBy": "khowerton",
+            "dateEntered": "2018-06-05T21:10:41Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19666",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19666",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19666",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19666",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19666",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19666",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19666",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19666",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19666",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19666/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19667,
+        "identifier": "Advantage Surveillance",
+        "name": "Advantage Surveillance",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "PO Box 788",
+        "city": "Thomasville",
+        "state": "NC",
+        "zip": "27361",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3364757750",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "Advantage Surveillance",
+        "defaultContact": {
+            "id": 365,
+            "name": "Adrian Eckenrod",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/365"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:41Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19667,
+            "identifier": "Advantage Surveillance",
+            "name": "Advantage Surveillance",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667"
+            }
+        },
+        "billingSite": {
+            "id": 1372,
+            "name": "Thomasville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/sites/1372"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:41Z",
+        "mobileGuid": "e699db77-db22-4d4f-9331-919132377b60",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1372,
+            "name": "Thomasville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/sites/1372"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:17Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:41Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19667",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19667",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19667",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19667",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19667",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19667",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19667",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19667",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19667",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19667/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19668,
+        "identifier": "Affordable Design Solutio",
+        "name": "Affordable Design Solutions",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "3305 Olde Sedgefield Way",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27407",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3046341450",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "AFFDES",
+        "defaultContact": {
+            "id": 366,
+            "name": "Connie Post",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/366"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:41Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19668,
+            "identifier": "Affordable Design Solutio",
+            "name": "Affordable Design Solutions",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668"
+            }
+        },
+        "billingSite": {
+            "id": 1373,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/sites/1373"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:41Z",
+        "mobileGuid": "38630f68-e71f-4b12-a364-b0285f78cd8f",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 31,
+                "name": "Former Client",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/31"
+                }
+            }
+        ],
+        "site": {
+            "id": 1373,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/sites/1373"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2021-09-28T20:37:09Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:41Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19668",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19668",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19668",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19668",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19668",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19668",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19668",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19668",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19668",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19668/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19669,
+        "identifier": "Alpine Graphic Apparel2",
+        "name": "Alpine Graphic Apparel",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "2640 Willard Dairy Rd. Ste 116",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27265",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368846035",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "ALPINEG",
+        "defaultContact": {
+            "id": 367,
+            "name": "Don Allen",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/367"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:41Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19669,
+            "identifier": "Alpine Graphic Apparel2",
+            "name": "Alpine Graphic Apparel",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669"
+            }
+        },
+        "billingSite": {
+            "id": 1374,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/sites/1374"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:41Z",
+        "mobileGuid": "cf047f82-e7bf-4dff-a5f7-eac483fab08b",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 54,
+                "name": "Managed",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/54"
+                }
+            }
+        ],
+        "site": {
+            "id": 1374,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/sites/1374"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2020-12-03T15:11:00Z",
+            "updatedBy": "Automate",
+            "dateEntered": "2018-06-05T21:10:41Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19669",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19669",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19669",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19669",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19669",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19669",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19669",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19669",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19669",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19669/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19672,
+        "identifier": "AuraTech Inc",
+        "name": "AuraTech, Inc.",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "3106 Solara Trace",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27410",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "AURAT",
+        "defaultContact": {
+            "id": 370,
+            "name": "Mose Kaiser",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/370"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:41Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19672,
+            "identifier": "AuraTech Inc",
+            "name": "AuraTech, Inc.",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672"
+            }
+        },
+        "billingSite": {
+            "id": 1377,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/sites/1377"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:41Z",
+        "mobileGuid": "ca7e0b2d-0c81-42b8-8dad-225725ff7441",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1377,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/sites/1377"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:18Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:41Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19672",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19672",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19672",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19672",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19672",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19672",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19672",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19672",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19672",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19672/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19673,
+        "identifier": "B  H Heating and Air Cond",
+        "name": "B & H Heating and Air Conditioning",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "2011 Bethel Dr.",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27260",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368415050",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BHHEAT",
+        "defaultContact": {
+            "id": 371,
+            "name": "Suzi Morris",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/371"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 14,
+            "name": "NC Sales Tax 7.0%",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/14"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19673,
+            "identifier": "B  H Heating and Air Cond",
+            "name": "B & H Heating and Air Conditioning",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673"
+            }
+        },
+        "billingSite": {
+            "id": 1378,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/sites/1378"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "08edf698-9459-4d43-a84f-c9f71a2126d0",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1378,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/sites/1378"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:19Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19673",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19673",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19673",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19673",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19673",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19673",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19673",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19673",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19673",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19673/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19674,
+        "identifier": "Ballard Surratt  Co",
+        "name": "Ballard Surratt & Co.",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "100 Salem St.",
+        "city": "Thomasville",
+        "state": "NC",
+        "zip": "27360",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3364723434",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BALLARD",
+        "defaultContact": {
+            "id": 372,
+            "name": "Hope Surratt",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/372"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 14,
+            "name": "NC Sales Tax 7.0%",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/14"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19674,
+            "identifier": "Ballard Surratt  Co",
+            "name": "Ballard Surratt & Co.",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674"
+            }
+        },
+        "billingSite": {
+            "id": 1379,
+            "name": "Thomasville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/sites/1379"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "29c67ea8-756e-42ba-b88b-a7112d573e60",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 54,
+                "name": "Managed",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/54"
+                }
+            }
+        ],
+        "site": {
+            "id": 1379,
+            "name": "Thomasville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/sites/1379"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-06-09T13:51:46Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19674",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19674",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19674",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19674",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19674",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19674",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19674",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19674",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19674",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19674/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19675,
+        "identifier": "Barbara H Fulp and Compan",
+        "name": "Barbara H. Fulp and Company PLLC",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "422-A West Mountain St.",
+        "city": "Kernersville",
+        "state": "NC",
+        "zip": "27284",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3369938129",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "FULP",
+        "defaultContact": {
+            "id": 373,
+            "name": "Barbara Fulp",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/373"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19675,
+            "identifier": "Barbara H Fulp and Compan",
+            "name": "Barbara H. Fulp and Company PLLC",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675"
+            }
+        },
+        "billingSite": {
+            "id": 1380,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/sites/1380"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "69130c9a-06e6-4112-bf7f-5cf01f3e5073",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1380,
+            "name": "Kernersville (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/sites/1380"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2019-08-04T13:15:31Z",
+            "updatedBy": "sbuchanan",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19675",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19675",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19675",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19675",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19675",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19675",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19675",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19675",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19675",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19675/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19676,
+        "identifier": "HKB of Greensoboro",
+        "name": "HKB of Greensboro",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "1591 Yancyville St.",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27401",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3362753430",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "market": {
+            "id": 18,
+            "name": "Healthcare",
+            "_info": {
+                "Market_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/marketDescriptions/18"
+            }
+        },
+        "accountNumber": "HKB of Greensboro",
+        "defaultContact": {
+            "id": 374,
+            "name": "Nikki Barber",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/374"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19676,
+            "identifier": "HKB of Greensoboro",
+            "name": "HKB of Greensboro",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676"
+            }
+        },
+        "billingSite": {
+            "id": 1381,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/sites/1381"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "ffbc4b91-8524-43ee-b031-09ee7580831a",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1381,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/sites/1381"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:24Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19676",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19676",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19676",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19676",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19676",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19676",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19676",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19676",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19676",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19676/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0,
+                "value": "Formerly Barber Center for Plastic Surgery"
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19677,
+        "identifier": "Bason  Co",
+        "name": "Bason & Co",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "501 W. McGee St.",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27401",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3362735649",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BASON",
+        "defaultContact": {
+            "id": 375,
+            "name": "Rick Bason",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/375"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19677,
+            "identifier": "Bason  Co",
+            "name": "Bason & Co",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677"
+            }
+        },
+        "billingSite": {
+            "id": 1382,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/sites/1382"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "2d5dc3b9-7ce5-4aaa-abea-d5add5a6d4ba",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1382,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/sites/1382"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:19Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19677",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19677",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19677",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19677",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19677",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19677",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19677",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19677",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19677",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19677/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19678,
+        "identifier": "Benny Huff",
+        "name": "Benny Huff",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "140 Tom Everhart Rd.",
+        "city": "Lexington",
+        "state": "NC",
+        "zip": "27292",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3369185812",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "HUFF",
+        "defaultContact": {
+            "id": 376,
+            "name": "Benny Huff",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/376"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 14,
+            "name": "NC Sales Tax 7.0%",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/14"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19678,
+            "identifier": "Benny Huff",
+            "name": "Benny Huff",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678"
+            }
+        },
+        "billingSite": {
+            "id": 1383,
+            "name": "Lexington (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/sites/1383"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "6fed0c41-77ab-4ffd-848b-5e0804355660",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 31,
+                "name": "Former Client",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/31"
+                }
+            }
+        ],
+        "site": {
+            "id": 1383,
+            "name": "Lexington (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/sites/1383"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2021-09-28T20:39:20Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19678",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19678",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19678",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19678",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19678",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19678",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19678",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19678",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19678",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19678/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19679,
+        "identifier": "Bill Benton",
+        "name": "Bill Benton",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "3305 Olde Sedgefield Way.",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27407",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "9376045961",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BENTON",
+        "defaultContact": {
+            "id": 377,
+            "name": "Bill Benton",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/377"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19679,
+            "identifier": "Bill Benton",
+            "name": "Bill Benton",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679"
+            }
+        },
+        "billingSite": {
+            "id": 1384,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/sites/1384"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "d0ac3326-8794-4dd4-978f-c12598a75430",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1384,
+            "name": "Greensboro (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/sites/1384"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:19Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19679",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19679",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19679",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19679",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19679",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19679",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19679",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19679",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19679",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19679/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19680,
+        "identifier": "Bill Fenn",
+        "name": "Bill Fenn",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "510 Emerywood Drive",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27262",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "FENN",
+        "defaultContact": {
+            "id": 378,
+            "name": "Bill Fenn",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/378"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:42Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19680,
+            "identifier": "Bill Fenn",
+            "name": "Bill Fenn",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680"
+            }
+        },
+        "billingSite": {
+            "id": 1385,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/sites/1385"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:42Z",
+        "mobileGuid": "5c897706-7b5a-4e0b-88c8-1ef4f7b60244",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1385,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/sites/1385"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2019-08-04T13:16:18Z",
+            "updatedBy": "sbuchanan",
+            "dateEntered": "2018-06-05T21:10:42Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19680",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19680",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19680",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19680",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19680",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19680",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19680",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19680",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19680",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19680/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19681,
+        "identifier": "Blakely Financial Inc",
+        "name": "Blakely Financial, Inc.",
+        "status": {
+            "id": 1,
+            "name": "Active",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/1"
+            }
+        },
+        "addressLine1": "1022 Hutton Lane Suite 109",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27262",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368852530",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BLAFIN",
+        "defaultContact": {
+            "id": 379,
+            "name": "Donna Blakely",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/379"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:43Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19681,
+            "identifier": "Blakely Financial Inc",
+            "name": "Blakely Financial, Inc.",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681"
+            }
+        },
+        "billingSite": {
+            "id": 1386,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/sites/1386"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:43Z",
+        "mobileGuid": "e06ecb9e-975b-4aab-b0b0-a87a7693a3d3",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            },
+            {
+                "id": 57,
+                "name": "Break/Fix",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/57"
+                }
+            }
+        ],
+        "site": {
+            "id": 1386,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/sites/1386"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-03-07T16:27:20Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:43Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19681",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19681",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19681",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19681",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19681",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19681",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19681",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19681",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19681",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19681/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0,
+                "value": "Todd Bartlett"
+            }
+        ]
+    },
+    {
+        "id": 19682,
+        "identifier": "Bommer Industries Inc",
+        "name": "Bommer Industries, Inc.",
+        "status": {
+            "id": 30,
+            "name": "Inactive",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/30"
+            }
+        },
+        "addressLine1": "P.O. Box 187",
+        "city": "Landrum",
+        "state": "SC",
+        "zip": "29356-0187",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3362400655",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "BOMMER",
+        "defaultContact": {
+            "id": 380,
+            "name": "Mike Nance",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/380"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:43Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19682,
+            "identifier": "Bommer Industries Inc",
+            "name": "Bommer Industries, Inc.",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682"
+            }
+        },
+        "billingSite": {
+            "id": 1387,
+            "name": "Landrum (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/sites/1387"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:43Z",
+        "mobileGuid": "61e6dab4-69bc-4c12-9934-7c8b0260ada9",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1387,
+            "name": "Landrum (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/sites/1387"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2019-08-04T13:16:36Z",
+            "updatedBy": "sbuchanan",
+            "dateEntered": "2018-06-05T21:10:43Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19682",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19682",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19682",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19682",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19682",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19682",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19682",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19682",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19682",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19682/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    },
+    {
+        "id": 19685,
+        "identifier": "Bryce Mayberry",
+        "name": "Bryce Mayberry",
+        "status": {
+            "id": 9,
+            "name": "Credit Hold",
+            "_info": {
+                "status_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/statuses/9"
+            }
+        },
+        "addressLine1": "1403 Eastchester Dr.\nSuite 101",
+        "city": "High Point",
+        "state": "NC",
+        "zip": "27265",
+        "country": {
+            "id": 1,
+            "identifier": "1",
+            "name": "United States",
+            "_info": {
+                "country_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/countries/1"
+            }
+        },
+        "phoneNumber": "3368820303",
+        "faxNumber": "",
+        "website": "",
+        "territory": {
+            "id": 11,
+            "name": "Integrated Technologies Inc.",
+            "_info": {
+                "location_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/locations/11"
+            }
+        },
+        "accountNumber": "MAYBER",
+        "defaultContact": {
+            "id": 383,
+            "name": "Bryce Mayberry",
+            "_info": {
+                "contact_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts/383"
+            }
+        },
+        "dateAcquired": "2018-06-05T21:10:43Z",
+        "annualRevenue": 0.00,
+        "numberOfEmployees": 0,
+        "leadFlag": false,
+        "unsubscribeFlag": false,
+        "vendorIdentifier": "",
+        "taxIdentifier": "",
+        "taxCode": {
+            "id": 8,
+            "name": "NC675",
+            "_info": {
+                "taxCode_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/taxCodes/8"
+            }
+        },
+        "billingTerms": {
+            "id": 3,
+            "name": "Due on Receipt"
+        },
+        "billToCompany": {
+            "id": 19685,
+            "identifier": "Bryce Mayberry",
+            "name": "Bryce Mayberry",
+            "_info": {
+                "company_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685"
+            }
+        },
+        "billingSite": {
+            "id": 1390,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/sites/1390"
+            }
+        },
+        "invoiceDeliveryMethod": {
+            "id": 2,
+            "name": "E-Mail"
+        },
+        "deletedFlag": false,
+        "dateDeleted": "2018-06-05T21:10:43Z",
+        "mobileGuid": "ecb69b03-8042-43aa-a582-4c24a01f93be",
+        "resellerIdentifier": "",
+        "isVendorFlag": false,
+        "types": [
+            {
+                "id": 37,
+                "name": "Original",
+                "_info": {
+                    "type_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/types/37"
+                }
+            }
+        ],
+        "site": {
+            "id": 1390,
+            "name": "High Point (HQ)",
+            "_info": {
+                "site_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/sites/1390"
+            }
+        },
+        "_info": {
+            "lastUpdated": "2022-05-20T15:10:28Z",
+            "updatedBy": "sbundy",
+            "dateEntered": "2018-06-05T21:10:43Z",
+            "enteredBy": "Import3",
+            "contacts_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/contacts?conditions=company/id=19685",
+            "agreements_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//finance/agreements?conditions=company/id=19685",
+            "tickets_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//service/tickets?conditions=company/id=19685",
+            "opportunities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/opportunities?conditions=company/id=19685",
+            "activities_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/activities?conditions=company/id=19685",
+            "projects_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//project/projects?conditions=company/id=19685",
+            "configurations_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/configurations?conditions=company/id=19685",
+            "orders_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//sales/orders?conditions=company/id=19685",
+            "documents_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//system/documents?recordType=Company&recordId=19685",
+            "sites_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/sites",
+            "teams_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/teams",
+            "reports_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/managementSummaryReports",
+            "notes_href": "https://api-na.myconnectwise.net/v4_6_release/apis/3.0//company/companies/19685/notes"
+        },
+        "customFields": [
+            {
+                "id": 2,
+                "caption": "Notes:",
+                "type": "TextArea",
+                "entryMethod": "EntryField",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 15,
+                "caption": "Sales Rep",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            },
+            {
+                "id": 16,
+                "caption": "Primary Technician",
+                "type": "Text",
+                "entryMethod": "List",
+                "numberOfDecimals": 0
+            }
+        ]
+    }
+]

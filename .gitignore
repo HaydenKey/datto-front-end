@@ -5,6 +5,10 @@
 /tmp
 /out-tsc
 /bazel-out
+angular.json
+package-lock.json
+package.json
+tsconfig.json
 
 # Node
 /node_modules
